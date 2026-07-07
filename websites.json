@@ -1137,5 +1137,62 @@
     ],
     "rating": 2.5,
     "featured": false
+  },
+  {
+    "id": 78,
+    "title": "Superbad",
+    "url": "https://superbad.com/",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/superbad1-1572465225.jpg",
+    "description": "Classic 90s/early 2000s weird web rabbit hole. Ever-changing surreal pages, puzzles, and pure chaos.",
+    "category": "weird",
+    "tags": [
+      "weird",
+      "chaos",
+      "puzzles"
+    ],
+    "rating": 3.8,
+    "featured": false
+  },
+  {
+    "id": 79,
+    "title": "Lhohq",
+    "url": "https://lhohq.info/",
+    "image": "https://i.ytimg.com/vi/uWUltHkEEYQ/maxresdefault.jpg",
+    "description": "Bizarre, abstract one in the same weird-web family.",
+    "category": "weird",
+    "tags": [
+      "weird",
+      "bizzare"
+    ],
+    "rating": 3.5,
+    "featured": false
+  },
+  {
+    "id": 80,
+    "title": "Mouchette",
+    "url": "https://mouchette.org/",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Mouchette.png",
+    "description": "Creepy, artistic, interactive oddness.",
+    "category": "weird",
+    "tags": [
+      "weird",
+      "creepy"
+    ],
+    "rating": 3.4,
+    "featured": false
+  },
+  {
+    "id": 81,
+    "title": "Sentimentalcorp",
+    "url": "http://sentimentalcorp.org",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_T-lz1RbnZWwSiQclgh3X2hZ_QVQbRtGxPUL8xcEx4bh_fLexEf0YpE&s=10",
+    "description": "Surreal and unsettling digital art.",
+    "category": "weird",
+    "tags": [
+      "weird",
+      "creepy"
+    ],
+    "rating": 2.9,
+    "featured": false
   }
 ]
