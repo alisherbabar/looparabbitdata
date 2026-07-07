@@ -1124,5 +1124,18 @@
     ],
     "rating": 4.4,
     "featured": false
+  },
+  {
+    "id": 77,
+    "title": "Tfpxe",
+    "url": "https://tfpxe.wtf/",
+    "image": "https://f4.bcbits.com/img/0027125110_25.jpg",
+    "description": "I dont knwo what's in website it's a weird site.",
+    "category": "weird",
+    "tags": [
+      "weird"
+    ],
+    "rating": 2.5,
+    "featured": false
   }
 ]
