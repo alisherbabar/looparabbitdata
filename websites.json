@@ -1037,5 +1037,64 @@
     ],
     "rating": 4.8,
     "featured": true
+  },
+  {
+    "id": 71,
+    "title": "Infinite Craft",
+    "url": "https://infinitecraft-game.io/",
+    "image": "https://neal.fun/share-cards/infinite-craft.png",
+    "description": "Combine elements to create anything using AI. Extremely addictive creativity game.",
+    "category": "super addictive",
+    "tags": [
+      "game",
+      "best",
+      "crafting",
+      "craft"
+    ],
+    "rating": 4.8,
+    "featured": false
+  },
+  {
+    "id": 72,
+    "title": "My Noise",
+    "url": "https://mynoise.net/",
+    "image": "https://mynoise.net/Pix/card_logo.png",
+    "description": "Powerful ambient sound mixer with hundreds of high-quality sounds.",
+    "category": "relax",
+    "tags": [
+      "music",
+      "song",
+      "creativity"
+    ],
+    "rating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 73,
+    "title": "Library Of Babel",
+    "url": "https://libraryofbabel.info/",
+    "image": "https://substackcdn.com/image/fetch/$s_!jqLO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa859f04f-c4b2-46c4-95a1-ba57ba44d14a_2560x1535.jpeg",
+    "description": "An infinite library containing every possible book ever. Truly surreal.",
+    "category": "mind blowing",
+    "tags": [
+      "Library",
+      "books"
+    ],
+    "rating": 4,
+    "featured": false
+  },
+  {
+    "id": 74,
+    "title": "Staggering Beauty",
+    "url": "http://www.staggeringbeauty.com/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBd2qLsqRu5CC0L3cxMzOb_lmbr6AQNWkls1SPpWfHygCPIxj4jJD7k4qH&s=10",
+    "description": "Move your mouse and watch a hypnotic creature react. Very trippy.",
+    "category": "weird",
+    "tags": [
+      "weird",
+      "jumpscare"
+    ],
+    "rating": 4.4,
+    "featured": false
   }
 ]
