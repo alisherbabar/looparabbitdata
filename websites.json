@@ -1022,5 +1022,20 @@
     ],
     "rating": 4.7,
     "featured": false
+  },
+  {
+    "id": 70,
+    "title": "FitGirl",
+    "url": "https://fitgirl-repacks.site/",
+    "image": "https://www.enduins.com/wp-content/uploads/2024/10/fitgirl.jpg",
+    "description": "Download almost ever pc games for free and safe.",
+    "category": "game",
+    "tags": [
+      "game",
+      "download",
+      "free"
+    ],
+    "rating": 4.8,
+    "featured": true
   }
 ]
