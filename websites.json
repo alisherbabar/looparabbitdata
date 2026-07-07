@@ -1096,5 +1096,19 @@
     ],
     "rating": 4.4,
     "featured": false
+  },
+  {
+    "id": 75,
+    "title": "Mondrian And Me",
+    "url": "https://mondrianandme.com/",
+    "image": "https://i.ytimg.com/vi/jneD0tFKKRQ/maxresdefault.jpg",
+    "description": "Create digital art in the classic Mondrian style.",
+    "category": "art",
+    "tags": [
+      "art",
+      "playful"
+    ],
+    "rating": 3.7,
+    "featured": false
   }
 ]
