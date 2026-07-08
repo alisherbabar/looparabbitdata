@@ -360,7 +360,7 @@
       "fun",
       "FPS Game"
     ],
-    "rating": 4.3,
+    "rating": 5,
     "featured": false
   },
   {
@@ -615,7 +615,7 @@
       "relaxing",
       "simulation"
     ],
-    "rating": 4.7,
+    "rating": 5,
     "featured": false
   },
   {
@@ -1193,6 +1193,51 @@
       "creepy"
     ],
     "rating": 2.9,
+    "featured": false
+  },
+  {
+    "id": 82,
+    "title": "Redox Games [Test Project]",
+    "url": "https://redoxgames.itch.io/endless-offroad-driving",
+    "image": "https://img.itch.zone/aW1nLzM0ODgwODEucG5n/original/nE%2F1Fj.png",
+    "description": "Endless offroad terrain exploration. The car feels heavy and the ground is bumpy. Good for free driving but performance and graphics are average.",
+    "category": "game",
+    "tags": [
+      "game",
+      "3d",
+      "car",
+      "driving"
+    ],
+    "rating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 83,
+    "title": "Hexgl Bkore",
+    "url": "https://hexgl.bkcore.com/play/",
+    "image": "https://i.ytimg.com/vi/se-oorr2zM8/maxresdefault.jpg",
+    "description": "Futuristic hovercraft racing on neon tracks. Controls are responsive but the game can be difficult for beginners. Better for short sessions.",
+    "category": "game",
+    "tags": [
+      "game",
+      "fun"
+    ],
+    "rating": 4.8,
+    "featured": false
+  },
+  {
+    "id": 84,
+    "title": "Dino 3D",
+    "url": "https://dino3d.games/",
+    "image": "https://elgoog.im/assets/p/dinosaur-game/3d/media/dinosaur-game-t-rex-run-3d.jpg",
+    "description": "3D version of the classic chrome dino runner. Basic endless running, jump and duck mechanics. Simple but fun for few minutes.",
+    "category": "game",
+    "tags": [
+      "game",
+      "3d",
+      "dino"
+    ],
+    "rating": 4,
     "featured": false
   }
 ]
