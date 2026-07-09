@@ -1239,5 +1239,34 @@
     ],
     "rating": 4,
     "featured": false
+  },
+  {
+    "id": 85,
+    "title": "Test lab",
+    "url": "https://www.test-lab.ai/",
+    "image": "https://i.ytimg.com/vi/E_g98zcdSmk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6OGZCMC0aA29eln2ZW3TBd4kDEw",
+    "description": "I used this ai and i really like it. no login or sighnin it's free.",
+    "category": "ai",
+    "tags": [
+      "ai",
+      "free"
+    ],
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "id": 86,
+    "title": "Plai Chat",
+    "url": "https://plai.chat/no-login-ai-chat/",
+    "image": "https://cdn-01.cms-ap-v2i.applyflow.com/entreerecruitment/wp-content/uploads/2023/09/MailChimp-Blogs-980-x-551-px.png",
+    "description": "It have soo many free ai models its really good i used this i like it ni login, sighin need its free.",
+    "category": "ai",
+    "tags": [
+      "ai",
+      "free",
+      "allfreeai"
+    ],
+    "rating": 4.7,
+    "featured": true
   }
 ]
