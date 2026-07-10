@@ -4,13 +4,9 @@
     "title": "Little Alchemy 2",
     "url": "https://littlealchemy2.com/",
     "image": "https://littlealchemy2.com/static/img/little-alchemy-2-fb-thumbnail.jpg",
-    "description": "Combine simple elements to discover hundreds of amazing creations.",
+    "description": "Four elements — fire, water, earth, air — and hundreds of hours if you let it. Little Alchemy 2 turns combining into a treasure hunt; there's no wrong move, just discoveries you haven't stumbled on yet. Good for the exact five minutes you say you'll play.",
     "category": "game",
-    "tags": [
-      "game",
-      "alchemy",
-      "creative"
-    ],
+    "tags": ["game", "alchemy", "creative"],
     "rating": 4.6,
     "featured": true
   },
@@ -19,13 +15,9 @@
     "title": "A Soft Murmur",
     "url": "https://asoftmurmur.com/",
     "image": "https://startupresources.io/wp-content/uploads/2019/08/asoftmurmur.png",
-    "description": "Mix relaxing ambient sounds like rain, thunder and waves.",
+    "description": "Rain, thunder, waves, and a dozen other ambient layers you can blend into your own mix and save. Built for people who write, code, or fall asleep better with background noise than silence — no account needed to start.",
     "category": "relax",
-    "tags": [
-      "rain",
-      "focus",
-      "ambient"
-    ],
+    "tags": ["rain", "focus", "ambient"],
     "rating": 4.6,
     "featured": true
   },
@@ -34,13 +26,9 @@
     "title": "Radio Garden",
     "url": "https://radio.garden/",
     "image": "https://media.licdn.com/dms/image/v2/C5612AQGMywrIY0Jh2A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1520254014688?e=1784764800&v=beta&t=WPkQ2i78r5oaf0kR5uAfdgmggd58l2e0ju-GTIW1cC0",
-    "description": "Explore thousands of live radio stations from around the world.",
+    "description": "Spin a 3D globe and drop into a live radio station anywhere from Lagos to Reykjavik. Less a tool, more a way to eavesdrop on a city you'll probably never visit — the interface gets out of the way and lets the audio do the work.",
     "category": "music",
-    "tags": [
-      "radio",
-      "world",
-      "music"
-    ],
+    "tags": ["radio", "world", "music"],
     "rating": 4.7,
     "featured": true
   },
@@ -49,13 +37,9 @@
     "title": "Pointer Pointer",
     "url": "https://pointerpointer.com/",
     "image": "https://i.ytimg.com/vi/3ao7DdYiwx0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB14Fmd-bcm3QiNW_Jg0PcYSUYlWw",
-    "description": "Finds a random photo with someone pointing at your cursor.",
+    "description": "Move your cursor, and somewhere a stock photo model is already pointing at it. Pointer Pointer has no purpose beyond being funny for thirty seconds — which, on a bad day, is sometimes exactly what you need.",
     "category": "funny",
-    "tags": [
-      "random",
-      "funny",
-      "cursor"
-    ],
+    "tags": ["random", "funny", "cursor"],
     "rating": 4.2,
     "featured": false
   },
@@ -64,13 +48,9 @@
     "title": "Zoom Quilt",
     "url": "https://zoomquilt.org/",
     "image": "https://www.puzzleprime.com/wp-content/uploads/2018/07/TheZoomquilt.png",
-    "description": "An endlessly zooming surreal artwork experience.",
+    "description": "An artwork that zooms into itself forever, each frame painted by a different artist and stitched into one continuous descent. There's no ending — just a strange, hypnotic way to lose ten minutes.",
     "category": "art",
-    "tags": [
-      "art",
-      "infinite",
-      "visual"
-    ],
+    "tags": ["art", "infinite", "visual"],
     "rating": 4.5,
     "featured": true
   },
@@ -79,12 +59,9 @@
     "title": "The Useless Web",
     "url": "https://theuselessweb.com/",
     "image": "https://theuselessweb.com/share-image-large.png",
-    "description": "Visit a random useless but entertaining website.",
+    "description": "Click once, land on something nobody would ever search for on purpose. The Useless Web is the internet's junk drawer, and that's the whole appeal — it's the fastest route to something genuinely surprising.",
     "category": "random",
-    "tags": [
-      "random",
-      "fun"
-    ],
+    "tags": ["random", "fun"],
     "rating": 4.3,
     "featured": true
   },
@@ -93,13 +70,9 @@
     "title": "Window Swap",
     "url": "https://window-swap.com/",
     "image": "https://helios-i.mashable.com/imagery/videos/03UJVvAAB9MbKrRiC5aJQO6/hero-image.fill.size_1248x702.v1614275257.png",
-    "description": "Look through windows from random homes across the globe.",
+    "description": "Real people around the world upload a video of the view from their window — that's it. Window Swap is oddly grounding: a two-minute look at rain in Seoul or traffic in São Paulo, with nothing being sold to you.",
     "category": "travel",
-    "tags": [
-      "world",
-      "travel",
-      "window"
-    ],
+    "tags": ["world", "travel", "window"],
     "rating": 4.5,
     "featured": true
   },
@@ -108,13 +81,9 @@
     "title": "Quick Draw",
     "url": "https://quickdraw.withgoogle.com/",
     "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Quick%2C_Draw%21_cover.png",
-    "description": "Draw objects while AI guesses what you are sketching.",
+    "description": "Google's neural network tries to guess your doodle in real time, and watching it get things wrong is half the fun. A fast, genuinely playable demo of how machine learning \"sees\" — not just a gimmick.",
     "category": "game",
-    "tags": [
-      "ai",
-      "drawing",
-      "google"
-    ],
+    "tags": ["ai", "drawing", "google"],
     "rating": 4.7,
     "featured": true
   },
@@ -123,13 +92,9 @@
     "title": "EarthCam",
     "url": "https://www.earthcam.com/",
     "image": "https://www.earthcam.net/graphics/ai/EarthCam_AI_Object_Identification-1.jpg?20251027a",
-    "description": "Watch live webcams from famous places worldwide.",
+    "description": "A directory of live public webcams — Times Square, beaches, zoos, city skylines — running in real time. Useful for checking weather or crowds somewhere before you go, or just for ambient background noise while you work.",
     "category": "live",
-    "tags": [
-      "camera",
-      "live",
-      "travel"
-    ],
+    "tags": ["camera", "live", "travel"],
     "rating": 4,
     "featured": false
   },
@@ -138,13 +103,9 @@
     "title": "MapCrunch",
     "url": "https://www.mapcrunch.com/",
     "image": "https://webiano.digital/wp-content/uploads/2026/04/MapCrunch-turns-the-whole-world-into-a-random-button.webp",
-    "description": "Teleport to a random location in Street View.",
+    "description": "Teleports you to a random Street View location anywhere Google's cameras have driven — sometimes a highway in Kansas, sometimes a market in Jakarta. Filters let you narrow it to specific countries if you're after somewhere in particular.",
     "category": "travel",
-    "tags": [
-      "maps",
-      "streetview",
-      "random"
-    ],
+    "tags": ["maps", "streetview", "random"],
     "rating": 4.3,
     "featured": true
   },
@@ -153,13 +114,9 @@
     "title": "Neal.fun",
     "url": "https://neal.fun/",
     "image": "https://www.pcworld.com/wp-content/uploads/2026/06/NealFun.png?w=1024",
-    "description": "A collection of creative interactive experiments and games.",
+    "description": "One developer, dozens of small interactive experiments — a size-of-space scroller, a \"password game,\" a deathclock. Consistently the most inventive site on this list; almost everything here rewards clicking around.",
     "category": "interactive",
-    "tags": [
-      "fun",
-      "games",
-      "interactive"
-    ],
+    "tags": ["fun", "games", "interactive"],
     "rating": 4.9,
     "featured": true
   },
@@ -168,12 +125,9 @@
     "title": "Bored Button",
     "url": "https://www.boredbutton.com/",
     "image": "https://www.boredbutton.com/i/bb-fb.jpg",
-    "description": "Click once and discover something fun to do online.",
+    "description": "One big red button, one random destination from a curated pool of odd corners of the internet. It's The Useless Web's louder cousin — less polished, more chaotic, occasionally NSFW-adjacent so click with that in mind.",
     "category": "random",
-    "tags": [
-      "bored",
-      "random"
-    ],
+    "tags": ["bored", "random"],
     "rating": 4,
     "featured": false
   },
@@ -182,12 +136,9 @@
     "title": "This Is Sand",
     "url": "https://thisissand.com/",
     "image": "https://i.pinimg.com/736x/b6/87/51/b687516b02ec775038c04b4ca54ad03d.jpg",
-    "description": "Create beautiful sand art digitally.",
+    "description": "Pour digital sand in layers of color and watch it settle under gravity. No save-and-share gimmicks, no ads interrupting — just a quiet, meditative art tool that's stayed almost unchanged since 2011.",
     "category": "art",
-    "tags": [
-      "sand",
-      "creative"
-    ],
+    "tags": ["sand", "creative"],
     "rating": 4.3,
     "featured": false
   },
@@ -196,12 +147,9 @@
     "title": "Patatap",
     "url": "https://patatap.com/",
     "image": "https://lh6.ggpht.com/qPyi-sFdl3N3NAzh88KTGVvEi2Je1cnQUCB_DqJzRZENEBgYcim9uufuGIfvQOPvmBAkc2rL41OLNQNLQuRkUWPbTmnsiYovKWjz",
-    "description": "Create music and colorful animations using your keyboard.",
+    "description": "Tap letter keys and get instant, synced sound-and-animation combos — closer to a musical instrument than an app. Works well as a five-minute creative reset between actual work.",
     "category": "music",
-    "tags": [
-      "music",
-      "animation"
-    ],
+    "tags": ["music", "animation"],
     "rating": 4.6,
     "featured": true
   },
@@ -210,12 +158,9 @@
     "title": "Rainy Mood",
     "url": "https://rainymood.com/",
     "image": "https://i.ytimg.com/vi/SDmbGrQqWog/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGFIgYChlMA8=&rs=AOn4CLAeX1hfJwc_T-Wp7hwoTzUQkNd4bA",
-    "description": "Relax with realistic rain sounds.",
+    "description": "A single, well-recorded loop of rain — no mixer, no options, just rain. Simpler than A Soft Murmur by design, for people who want one sound done right instead of a dozen to fiddle with.",
     "category": "relax",
-    "tags": [
-      "rain",
-      "sleep"
-    ],
+    "tags": ["rain", "sleep"],
     "rating": 4.5,
     "featured": false
   },
@@ -224,12 +169,9 @@
     "title": "Find the Invisible Cow",
     "url": "https://findtheinvisiblecow.com/",
     "image": "https://ineews.eu/wp-content/uploads/2021/02/Find-The-Invisible-Cow.jpg",
-    "description": "Use sound clues to find an invisible cow.",
+    "description": "A sound-only hide-and-seek game — the cow moos louder as you get closer, and you have to triangulate its position blind. Genuinely clever for something this minimal, with no visuals until you find it.",
     "category": "game",
-    "tags": [
-      "audio",
-      "fun"
-    ],
+    "tags": ["audio", "fun"],
     "rating": 4,
     "featured": false
   },
@@ -238,12 +180,9 @@
     "title": "FutureMe",
     "url": "https://www.futureme.org/",
     "image": "https://res.cloudinary.com/memories-prod/image/upload/v1754448447/assets/pro-player-thumb_ajfzy8.png",
-    "description": "Send a letter to your future self.",
+    "description": "Write a letter to yourself and pick a delivery date, months or years out. FutureMe has been running since 2002, which means some people are still receiving letters they wrote as teenagers — that history is part of the appeal.",
     "category": "productivity",
-    "tags": [
-      "future",
-      "letters"
-    ],
+    "tags": ["future", "letters"],
     "rating": 4.3,
     "featured": false
   },
@@ -252,12 +191,9 @@
     "title": "GeoGuessr",
     "url": "https://www.geoguessr.com/",
     "image": "https://framerusercontent.com/images/iKYjfBwljOAWCeDlHTM5fPyqzw.jpg?width=1000&height=563",
-    "description": "Guess locations around the world using Street View.",
+    "description": "Drop into Street View with no location clues and guess where on Earth you are, scored by distance. What starts as a party game turns into real geography skill — road signs, architecture, and license plates all become evidence.",
     "category": "game",
-    "tags": [
-      "maps",
-      "geography"
-    ],
+    "tags": ["maps", "geography"],
     "rating": 4.8,
     "featured": true
   },
@@ -266,12 +202,9 @@
     "title": "Pixel Thoughts",
     "url": "https://www.pixelthoughts.co/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlylqU1PLCbi9YjAZ_IRjv_HGDKuKFJb5MwlZTb_24E_63qXPIamV7Nik&s=10",
-    "description": "A calming one-minute meditation for your worries.",
+    "description": "Type out what's worrying you, watch it turn into a pixel and drift off into a sixty-second animated sky. It's not therapy, but it's a genuinely calming minute when your head's too full.",
     "category": "mindfulness",
-    "tags": [
-      "meditation",
-      "calm"
-    ],
+    "tags": ["meditation", "calm"],
     "rating": 4.4,
     "featured": false
   },
@@ -280,12 +213,9 @@
     "title": "Strobe Cool",
     "url": "https://strobe.cool/",
     "image": "https://i.ytimg.com/vi/pISHt9TzwAA/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDwmeZWbjQxNrJ47L0KZ4iQ-kL90w",
-    "description": "Play with fascinating optical illusions and visual effects.",
+    "description": "A gallery of optical illusions and afterimage effects that actually work — not clickbait \"stare at this\" images, but tested visual tricks. Worth a warning: strobe-heavy, so skip it if you're photosensitive.",
     "category": "illusion",
-    "tags": [
-      "illusion",
-      "visual"
-    ],
+    "tags": ["illusion", "visual"],
     "rating": 4,
     "featured": false
   },
@@ -294,12 +224,9 @@
     "title": "Cat Bounce",
     "url": "https://cat-bounce.com/",
     "image": "https://laughingsquid.com/wp-content/uploads/Cat-Bounce.jpg",
-    "description": "Cute cats bouncing around your screen.",
+    "description": "Cats bounce across your screen, and clicking adds more cats. There's no goal and no metrics — it exists purely to be a little bit silly for as long as you let it run in a background tab.",
     "category": "funny",
-    "tags": [
-      "cats",
-      "funny"
-    ],
+    "tags": ["cats", "funny"],
     "rating": 3.9,
     "featured": false
   },
@@ -308,13 +235,9 @@
     "title": "Myinstants",
     "url": "https://www.myinstants.com/en/search/?name=meme",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-07lGYsEpNI67UCSEIEdEIOFBLaavzcvlCco58lsTAIIm0VXEBvtOLlU&s=10",
-    "description": "Random sounds for memes and funny moments.",
+    "description": "A soundboard of meme audio clips you can play or download instantly — the \"bruh\" sound effect and its many cousins, organized and searchable. Useful for stream overlays or just annoying your friends on a call.",
     "category": "useful",
-    "tags": [
-      "music",
-      "memes",
-      "sounds"
-    ],
+    "tags": ["music", "memes", "sounds"],
     "rating": 4.5,
     "featured": false
   },
@@ -323,13 +246,9 @@
     "title": "Windows 93",
     "url": "https://www.windows93.net/",
     "image": "https://webiano.digital/wp-content/uploads/2026/06/Windows-93-turns-a-fake-desktop-into-a-real-internet-adventure.webp",
-    "description": "A Windows 93 simulator with fun apps and games.",
+    "description": "A fake, glitchy operating system stuck between eras — half Windows 95, half broken internet, with working mini-apps and games buried inside. Best explored without a plan; poke every icon.",
     "category": "weird",
-    "tags": [
-      "weird",
-      "old",
-      "windows"
-    ],
+    "tags": ["weird", "old", "windows"],
     "rating": 4.4,
     "featured": false
   },
@@ -338,13 +257,9 @@
     "title": "Falling Falling",
     "url": "https://www.fallingfalling.com/",
     "image": "https://i.pinimg.com/736x/af/23/06/af23067984bb672640f096e6ab546255.jpg",
-    "description": "A useless website that plays a never-ending loop of falling blocks and music.",
+    "description": "Colorful blocks fall in an endless loop with a looping synth soundtrack, and nothing else happens. It's deliberately, proudly pointless — a screensaver you can control.",
     "category": "useless",
-    "tags": [
-      "timepass",
-      "useless",
-      "fun"
-    ],
+    "tags": ["timepass", "useless", "fun"],
     "rating": 3.5,
     "featured": false
   },
@@ -353,103 +268,75 @@
     "title": "Krunker",
     "url": "https://krunker.io/",
     "image": "https://store-images.s-microsoft.com/image/apps.39397.13845322647858210.8b1f39c3-ddc5-416c-a028-4616783ea5e8.28b59252-a476-4fef-b846-a5037b74989e",
-    "description": "Fast-paced online multiplayer FPS game.",
+    "description": "A fast, low-spec browser FPS that loads in seconds with no download — surprisingly competitive for something running entirely in a tab. Good pick if your machine can't handle a real shooter but you still want one.",
     "category": "game",
-    "tags": [
-      "game",
-      "fun",
-      "FPS Game"
-    ],
+    "tags": ["game", "fun", "FPS Game"],
     "rating": 5,
-    "featured": false
+    "featured": true
   },
   {
     "id": 26,
     "title": "Shell Shockers",
     "url": "https://shellshock.io/",
     "image": "https://imgs.crazygames.com/shellshockersio_16x9/20260203211252/shellshockersio_16x9-cover?metadata=none&quality=60&height=6983",
-    "description": "Battle as armed eggs in hilarious online matches.",
+    "description": "Multiplayer FPS where everyone's an armed egg. The premise is deliberately absurd, but the gunplay underneath is tighter than you'd expect from a browser game.",
     "category": "game",
-    "tags": [
-      "game",
-      "egg",
-      "FPS Game"
-    ],
+    "tags": ["game", "egg", "FPS Game"],
     "rating": 4.3,
     "featured": false
   },
   {
     "id": 27,
-    "title": "Slither",
+    "title": "Slither.io",
     "url": "http://slither.com/io",
     "image": "https://imgs.crazygames.com/games/slitherio/cover-1587331280441.png?format=auto&quality=100&metadata=none&width=1200",
-    "description": "Grow your snake by eating glowing orbs.",
+    "description": "A multiplayer take on Snake — grow by eating orbs, avoid bigger snakes, cut off smaller ones. Simple rules, but the real-time crowd of other players is what keeps it replayable.",
     "category": "game",
-    "tags": [
-      "snake",
-      "game",
-      "Arcade"
-    ],
+    "tags": ["snake", "game", "Arcade"],
     "rating": 4.4,
     "featured": false
   },
   {
     "id": 28,
-    "title": "Agar",
+    "title": "Agar.io",
     "url": "https://agar.io/",
     "image": "https://i.ytimg.com/vi/ztPmymDpLwI/maxresdefault.jpg",
-    "description": "Consume smaller cells to dominate the arena.",
+    "description": "The original \"eat smaller, avoid bigger\" browser game that spawned an entire genre of .io games. Still busy with active lobbies years later — a decent barometer for how much staying power a simple idea can have.",
     "category": "game",
-    "tags": [
-      "Arcade",
-      "game",
-      "fun"
-    ],
+    "tags": ["Arcade", "game", "fun"],
     "rating": 4,
     "featured": false
   },
   {
     "id": 29,
-    "title": "Diep",
+    "title": "Diep.io",
     "url": "https://diep.io/",
     "image": "https://diep.io/title.png",
-    "description": "Upgrade your tank and destroy enemy players.",
+    "description": "Agar.io's tank-combat cousin — earn XP, choose upgrade paths, and specialize your tank as matches go on. More strategic than most .io games thanks to the branching upgrade tree.",
     "category": "game",
-    "tags": [
-      "game",
-      "action",
-      "fun"
-    ],
+    "tags": ["game", "action", "fun"],
     "rating": 4,
     "featured": false
   },
   {
     "id": 30,
-    "title": "Surviv",
-    "url": "Surviv.io",
+    "title": "Survev (Surviv.io)",
+    "url": "https://survev.io/",
     "image": "https://imgs.crazygames.com/survev_16x9/20251009021953/survev_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-    "description": "Browser battle royale packed with fast action.",
+    "description": "A stripped-down, top-down battle royale that runs entirely in-browser with no install. Matches are short, which makes it a good pick when you want the battle royale loop without the 20-minute time commitment.",
     "category": "game",
-    "tags": [
-      "Battle Royale",
-      "game",
-      "enjoy"
-    ],
+    "tags": ["Battle Royale", "game", "enjoy"],
     "rating": 4.1,
     "featured": false
   },
   {
     "id": 31,
-    "title": "Paper io",
-    "url": "Paper.io",
+    "title": "Paper.io",
+    "url": "https://paper-io.com/",
     "image": "https://static.keygames.com/1/94341/83843/1200x630/paperio-2.webp",
-    "description": "Capture territory while avoiding enemy trails.",
+    "description": "Claim territory by drawing loops back to your base while avoiding rival trails — easy to learn, tense once other players start cutting you off. One of the better .io games that also plays well on desktop.",
     "category": "game",
-    "tags": [
-      "Arcade",
-      "game",
-      "fun"
-    ],
+    "tags": ["Arcade", "game", "fun"],
     "rating": 4.1,
     "featured": false
   },
@@ -458,13 +345,9 @@
     "title": "Hole.io",
     "url": "https://hole-io.com/",
     "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000069917/28c5a57b2711d70dbeb4dd55155691e8135a3069bad3455547392878c0162861",
-    "description": "Swallow everything and become the biggest hole.",
+    "description": "Control a growing black hole and swallow a city, block by block, car by car. Purely mindless in the best way — good for a five-minute break between tasks.",
     "category": "game",
-    "tags": [
-      "casual",
-      "game",
-      "fun"
-    ],
+    "tags": ["casual", "game", "fun"],
     "rating": 4.2,
     "featured": false
   },
@@ -473,28 +356,20 @@
     "title": "TETR.IO",
     "url": "https://tetr.io/",
     "image": "https://tetr.io/res/about/desktop-video-poster.png",
-    "description": "Competitive modern Tetris with online multiplayer.",
+    "description": "A serious, competitive modern Tetris client with ranked multiplayer and real matchmaking — not a novelty clone. If you grew up on Tetris and want the sweaty version, this is it.",
     "category": "game",
-    "tags": [
-      "puzzle",
-      "multiplayer",
-      "game"
-    ],
+    "tags": ["puzzle", "multiplayer", "game"],
     "rating": 4.8,
-    "featured": false
+    "featured": true
   },
   {
     "id": 34,
     "title": "2048",
     "url": "https://play2048.co/",
     "image": "https://www.coolmathgames.com/sites/default/files/styles/mobile_game_image/public/2048_OG-logo.jpg.webp?itok=BKildIhs",
-    "description": "Merge matching tiles to reach the number 2048.",
+    "description": "The tile-merging puzzle that was everywhere in 2014, still exactly as addictive. No ads, no login, no changes to the formula that made it work in the first place.",
     "category": "game",
-    "tags": [
-      "puzzle",
-      "numbers",
-      "game"
-    ],
+    "tags": ["puzzle", "numbers", "game"],
     "rating": 4.6,
     "featured": false
   },
@@ -503,13 +378,9 @@
     "title": "Hextris",
     "url": "https://hextris.io/",
     "image": "https://m.media-amazon.com/images/I/51x5yEr3VCL.png",
-    "description": "A fast-paced hexagon puzzle game.",
+    "description": "A hexagon-based spin on Tetris where blocks rotate around a shrinking center instead of falling straight down. Faster and more disorienting than it sounds — worth trying once you've mastered regular Tetris.",
     "category": "game",
-    "tags": [
-      "puzzle",
-      "arcade",
-      "game"
-    ],
+    "tags": ["puzzle", "arcade", "game"],
     "rating": 4.2,
     "featured": false
   },
@@ -518,13 +389,9 @@
     "title": "Chess.com",
     "url": "https://www.chess.com/play",
     "image": "https://i.ytimg.com/vi/D0KFvq1qmwk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgCxDJ6LimC1gCzROBj-dZS2JaEA",
-    "description": "Play chess against millions of players online.",
+    "description": "The largest online chess platform, with matchmaking across every skill level plus lessons, puzzles, and analysis tools. The free tier alone is more than most casual players will ever need.",
     "category": "game",
-    "tags": [
-      "chess",
-      "strategy",
-      "board"
-    ],
+    "tags": ["chess", "strategy", "board"],
     "rating": 4.8,
     "featured": true
   },
@@ -533,13 +400,9 @@
     "title": "Lichess",
     "url": "https://lichess.org/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Landscape-Lichess-logo.jpg",
-    "description": "Free and open-source online chess platform.",
+    "description": "A genuinely free, open-source, ad-free alternative to Chess.com — same core experience, no paywalled features. The choice if you want chess without the upsells.",
     "category": "game",
-    "tags": [
-      "chess",
-      "strategy",
-      "free"
-    ],
+    "tags": ["chess", "strategy", "free"],
     "rating": 4.9,
     "featured": true
   },
@@ -548,13 +411,9 @@
     "title": "Codenames",
     "url": "https://codenames.game/",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/884670/ss_4e20d1f7abd53728d85d7673e0e33421fc4def6a.1920x1080.jpg?t=1762966985",
-    "description": "Guess secret words with your teammates.",
+    "description": "The party word-guessing game, playable online with friends across different rooms. Works well as a low-effort remote hangout — no app install, just a shared link.",
     "category": "game",
-    "tags": [
-      "party",
-      "word",
-      "multiplayer"
-    ],
+    "tags": ["party", "word", "multiplayer"],
     "rating": 4.7,
     "featured": false
   },
@@ -563,13 +422,9 @@
     "title": "Skribbl.io",
     "url": "https://skribbl.io/",
     "image": "https://skribbliogame.io/data/image/options/skribbl-io.jpg",
-    "description": "Draw pictures while others guess the word.",
+    "description": "Browser Pictionary with strangers or friends — draw, guess, repeat. The chaos of other people's terrible drawings is honestly most of the entertainment.",
     "category": "game",
-    "tags": [
-      "drawing",
-      "party",
-      "multiplayer"
-    ],
+    "tags": ["drawing", "party", "multiplayer"],
     "rating": 4.6,
     "featured": true
   },
@@ -578,13 +433,9 @@
     "title": "Gartic Phone",
     "url": "https://garticphone.com/",
     "image": "https://garticphone.com/images/thumb.png",
-    "description": "Funny drawing and telephone party game.",
+    "description": "A drawing-and-telephone hybrid — you describe a drawing, the next person draws your description, and so on, getting delightfully wrong by the end of each chain. Best played with a full room of friends.",
     "category": "game",
-    "tags": [
-      "drawing",
-      "party",
-      "fun"
-    ],
+    "tags": ["drawing", "party", "fun"],
     "rating": 4.7,
     "featured": true
   },
@@ -593,13 +444,9 @@
     "title": "Wordle Unlimited",
     "url": "https://wordleunlimited.io/",
     "image": "https://wordleunlimited.org/wordle_unlimited_1200_630.png",
-    "description": "Play unlimited Wordle puzzles anytime.",
+    "description": "The original Wordle only gives you one puzzle a day; this gives you as many as you want. If you finished today's word in under a minute and wanted more, this fills the gap.",
     "category": "game",
-    "tags": [
-      "word",
-      "puzzle",
-      "brain"
-    ],
+    "tags": ["word", "puzzle", "brain"],
     "rating": 4,
     "featured": false
   },
@@ -608,28 +455,20 @@
     "title": "Slow Roads",
     "url": "https://slowroads.io/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGRTP5k_iksw8NACzgse11xUuSvx2GLN47hnQyXbPOE-g4JldEQ1T_CI&s=10",
-    "description": "Relax with endless scenic driving.",
+    "description": "A procedurally generated, endless driving simulator with no traffic, no objectives, and no rush — just scenic roads that regenerate as you go. Closer to a screensaver you can steer than an actual driving game.",
     "category": "game",
-    "tags": [
-      "driving",
-      "relaxing",
-      "simulation"
-    ],
+    "tags": ["driving", "relaxing", "simulation"],
     "rating": 5,
-    "featured": false
+    "featured": true
   },
   {
     "id": 43,
     "title": "Townscaper",
     "url": "https://townscaper.com/",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1291340/ss_989ff1808d9416c7b22da3e16ee54874697b1cea.1920x1080.jpg?t=1780992269",
-    "description": "Build beautiful towns with simple clicks.",
+    "description": "Click to place buildings and watch a charming little town assemble itself with zero building rules to learn. There's no failure state — just a genuinely relaxing sandbox that rewards clicking around a coastline.",
     "category": "game",
-    "tags": [
-      "sandbox",
-      "building",
-      "creative"
-    ],
+    "tags": ["sandbox", "building", "creative"],
     "rating": 4.8,
     "featured": true
   },
@@ -638,13 +477,9 @@
     "title": "Sandspiel",
     "url": "https://sandspiel.club/",
     "image": "https://raw.githubusercontent.com/MaxBittker/sandspiel/master/Screenshot.png",
-    "description": "Experiment with realistic falling sand physics.",
+    "description": "A falling-sand simulator with real physics — water, fire, sand, and plants all interact realistically. More of a chemistry set than a game; worth it just to watch fire spread through a forest you planted.",
     "category": "game",
-    "tags": [
-      "sandbox",
-      "physics",
-      "creative"
-    ],
+    "tags": ["sandbox", "physics", "creative"],
     "rating": 4.5,
     "featured": false
   },
@@ -653,13 +488,9 @@
     "title": "WeaveSilk",
     "url": "https://weavesilk.com/",
     "image": "https://lh6.googleusercontent.com/KCEGN1Z-aPjyJN14V5LsqloorAOU4zhWxa44hPRWCUj5_lvxG2B4_BEyDfqjhtLuPjDAhMbUnPnvfPWtdUPDKTurZh7KnjkerHVsPqkJnzZKmp1BzG4PTiTXLRtI4oHMjDWMTvsx=s0",
-    "description": "Create beautiful symmetrical digital artwork.",
+    "description": "Draw with mirrored, symmetrical brush strokes that turn even random mouse movements into something that looks intentional. Zero learning curve, genuinely satisfying output.",
     "category": "art",
-    "tags": [
-      "drawing",
-      "creative",
-      "art"
-    ],
+    "tags": ["drawing", "creative", "art"],
     "rating": 4.7,
     "featured": false
   },
@@ -668,13 +499,9 @@
     "title": "Classic Minecraft",
     "url": "https://classic.minecraft.net/",
     "image": "https://preview.redd.it/has-anyone-played-minecraft-classic-v0-3fetngxfdsbe1.png?auto=webp&s=633052f4bb43aab80488a0b6feb1f281c829b8dd",
-    "description": "Play the original Minecraft Classic online.",
+    "description": "The original 2009 browser version of Minecraft, officially hosted and still playable for free. A nostalgia trip more than a full game — no survival mode, just building in the classic engine.",
     "category": "game",
-    "tags": [
-      "minecraft",
-      "sandbox",
-      "classic"
-    ],
+    "tags": ["minecraft", "sandbox", "classic"],
     "rating": 4.4,
     "featured": true
   },
@@ -683,13 +510,9 @@
     "title": "EmuOS",
     "url": "https://emupedia.net/beta/emuos/",
     "image": "https://emupedia.net/beta/emuos/assets/images/themes/boot/windows-98/windows-98-remastered.png",
-    "description": "Experience a retro desktop with classic games.",
+    "description": "A fake retro desktop — Windows 98 skin, working mini-apps, and a handful of playable old-school games baked in. Built entirely for the nostalgia of poking around an OS that doesn't exist anymore.",
     "category": "fun",
-    "tags": [
-      "retro",
-      "emulator",
-      "games"
-    ],
+    "tags": ["retro", "emulator", "games"],
     "rating": 4.3,
     "featured": false
   },
@@ -698,13 +521,9 @@
     "title": "Poki",
     "url": "https://poki.com/",
     "image": "https://cdn-www.bluestacks.com/bs-images/rht4e.jpg",
-    "description": "Play thousands of free browser games.",
+    "description": "A large, well-organized library of free browser games across every genre — no downloads, decent curation, minimal clutter compared to most ad-stuffed game portals.",
     "category": "game",
-    "tags": [
-      "games",
-      "browser",
-      "arcade"
-    ],
+    "tags": ["games", "browser", "arcade"],
     "rating": 4.5,
     "featured": true
   },
@@ -713,13 +532,9 @@
     "title": "CrazyGames",
     "url": "https://crazygames.com/",
     "image": "https://imgs.crazygames.com/crazygames/share.png?metadata=none&width=1200&height=630&fit=crop",
-    "description": "Discover thousands of fun browser games.",
+    "description": "Another big browser game hub, similar footprint to Poki but with a slightly different catalog — worth checking both if one doesn't have what you're after.",
     "category": "game",
-    "tags": [
-      "games",
-      "browser",
-      "online"
-    ],
+    "tags": ["games", "browser", "online"],
     "rating": 4.5,
     "featured": true
   },
@@ -728,13 +543,9 @@
     "title": "itch.io Web Games",
     "url": "https://itch.io/games/platform-web",
     "image": "https://static.itch.io/images/app/collections@1x.png",
-    "description": "Discover unique indie browser games.",
+    "description": "The web-playable slice of itch.io's massive indie catalog — smaller, weirder, more experimental than mainstream game portals. This is where you find the games nobody else is curating.",
     "category": "game",
-    "tags": [
-      "indie",
-      "browser",
-      "games"
-    ],
+    "tags": ["indie", "browser", "games"],
     "rating": 4.6,
     "featured": true
   },
@@ -743,13 +554,9 @@
     "title": "Photopea",
     "url": "https://www.photopea.com/",
     "image": "https://developer.chrome.com/static/blog/how-photopea-uses-the-file-handling-api/image/the-photopea-app-382a49ad75bbf.png",
-    "description": "Full-featured Photoshop-like photo editor, runs entirely in browser.",
+    "description": "A full Photoshop-style editor that runs entirely in your browser tab and reads PSD files natively, at no cost. For most day-to-day editing tasks, there's genuinely no reason to open a paid desktop app instead.",
     "category": "tool",
-    "tags": [
-      "editing",
-      "design",
-      "browser"
-    ],
+    "tags": ["editing", "design", "browser"],
     "rating": 4.8,
     "featured": true
   },
@@ -758,13 +565,9 @@
     "title": "Remove.bg",
     "url": "https://www.remove.bg/",
     "image": "https://sb.kaleidousercontent.com/67418/512x342/dd4e54989d/unnamed-18.png",
-    "description": "Instantly remove image backgrounds using AI, one click.",
+    "description": "One-click AI background removal that's noticeably better at hair and fine edges than most competitors. Free tier caps resolution, but for quick social or listing images it's usually enough.",
     "category": "tool",
-    "tags": [
-      "ai",
-      "editing",
-      "images"
-    ],
+    "tags": ["ai", "editing", "images"],
     "rating": 4.7,
     "featured": true
   },
@@ -773,13 +576,9 @@
     "title": "Cleanup.pictures",
     "url": "https://cleanup.pictures/",
     "image": "https://a.storyblok.com/f/331919/1442x962/074e8514ff/removing-multiple-flying-seagulls-from-ocean-background-while-keeping-young-woman-s-portrait-clean.webp",
-    "description": "Remove unwanted objects, people, or text from any photo for free.",
+    "description": "AI-powered object removal — paint over what you want gone and it fills the gap convincingly most of the time. Best for small distractions like a stray person or wire, not full scene edits.",
     "category": "tool",
-    "tags": [
-      "ai",
-      "editing",
-      "images"
-    ],
+    "tags": ["ai", "editing", "images"],
     "rating": 4.6,
     "featured": false
   },
@@ -788,13 +587,9 @@
     "title": "Coolors",
     "url": "https://coolors.co/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pgA_UlldGf5S4Zi3Mr37o8uEKzAWJlbRRgrvCUWcMkXVpq6bTmgf1h8&s=10",
-    "description": "Generate beautiful color palettes instantly for design projects.",
+    "description": "Generate, lock, and export color palettes with a spacebar — genuinely the fastest palette workflow available for free. A staple for anyone doing quick design work without a dedicated tool.",
     "category": "tool",
-    "tags": [
-      "design",
-      "colors",
-      "generator"
-    ],
+    "tags": ["design", "colors", "generator"],
     "rating": 4.6,
     "featured": false
   },
@@ -803,13 +598,9 @@
     "title": "QuillBot",
     "url": "https://quillbot.com/",
     "image": "https://mma.prnewswire.com/media/2032096/QuillBot_logo_Logo.jpg?p=twitter",
-    "description": "AI-powered paraphrasing tool and grammar checker.",
+    "description": "AI paraphrasing and grammar checking that goes beyond basic spell-check — useful for tightening awkward sentences, though it's worth rereading its suggestions rather than accepting them blindly.",
     "category": "ai",
-    "tags": [
-      "ai",
-      "writing",
-      "productivity"
-    ],
+    "tags": ["ai", "writing", "productivity"],
     "rating": 4.4,
     "featured": false
   },
@@ -818,13 +609,9 @@
     "title": "ElevenLabs",
     "url": "https://elevenlabs.io/",
     "image": "https://camo.githubusercontent.com/8f14fa4cfd0481fdf03da2248ff51d8d5a6697ceedd4eaf6702fbb09545abc87/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f693f69643d323335626566383034663036316530663939366131303037323339326539636365353036323464342d353233333135342d696d616765732d7468756d6273266e3d3133",
-    "description": "Realistic AI voice generation and cloning, free tier available.",
+    "description": "Realistic AI voice generation and cloning with a genuinely usable free tier — one of the few voice AI tools where the free version doesn't sound obviously robotic.",
     "category": "ai",
-    "tags": [
-      "ai",
-      "voice",
-      "audio"
-    ],
+    "tags": ["ai", "voice", "audio"],
     "rating": 4.7,
     "featured": true
   },
@@ -833,13 +620,9 @@
     "title": "Suno",
     "url": "https://suno.com/",
     "image": "https://cdn-o.suno.com/meta-preview.jpg",
-    "description": "Create full AI-generated songs from text prompts.",
+    "description": "Generate full songs — vocals, instrumentation, structure — from a text prompt. Output quality varies a lot by genre, but for quick demos or joke songs it's often good enough to actually use.",
     "category": "ai",
-    "tags": [
-      "ai",
-      "music",
-      "generator"
-    ],
+    "tags": ["ai", "music", "generator"],
     "rating": 4.6,
     "featured": true
   },
@@ -848,13 +631,9 @@
     "title": "Zoom Earth",
     "url": "https://zoom.earth/",
     "image": "https://www.shutterstock.com/shutterstock/videos/3800855089/thumb/1.jpg?ip=x480",
-    "description": "Live satellite imagery to track storms and weather worldwide.",
+    "description": "Live satellite and radar imagery for tracking storms, wildfires, and weather systems globally. More detailed and less cluttered than most weather apps if you actually want to watch a system move.",
     "category": "tool",
-    "tags": [
-      "weather",
-      "satellite",
-      "live"
-    ],
+    "tags": ["weather", "satellite", "live"],
     "rating": 4.5,
     "featured": false
   },
@@ -863,13 +642,9 @@
     "title": "Flightradar24",
     "url": "https://www.flightradar24.com/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesz8VCgAz7NbbHmTDJygCue0jG5NlDHwwp8K0j3Vh_RqbTQ8pglcnZ4E&s=10",
-    "description": "Track live flights anywhere on Earth in real time.",
+    "description": "Real-time flight tracking worldwide, down to altitude, speed, and aircraft type. Free tier has some delay and coverage limits, but it's still the fastest way to check why a plane is late.",
     "category": "tool",
-    "tags": [
-      "live",
-      "tracking",
-      "world"
-    ],
+    "tags": ["live", "tracking", "world"],
     "rating": 4.7,
     "featured": true
   },
@@ -878,13 +653,9 @@
     "title": "MarineTraffic",
     "url": "https://www.marinetraffic.com/",
     "image": "https://globalmar.net/modules/ph_simpleblog/covers/16.png",
-    "description": "Track ships and vessels live across the world's oceans.",
+    "description": "Flightradar24's maritime equivalent — live ship positions, ports, and routes across the world's oceans. Niche, but genuinely useful if you're tracking a shipment or just curious about traffic in a specific strait.",
     "category": "tool",
-    "tags": [
-      "live",
-      "tracking",
-      "ships"
-    ],
+    "tags": ["live", "tracking", "ships"],
     "rating": 4.4,
     "featured": false
   },
@@ -893,13 +664,9 @@
     "title": "iLovePDF",
     "url": "https://www.ilovepdf.com/",
     "image": "https://res-academy.cache.wpscdn.com/images/seo_posts/20230607/551568f002bbc15a89dbc69efa6892e7.png",
-    "description": "Free suite of tools to merge, split, compress, and edit PDFs.",
+    "description": "Merge, split, compress, and convert PDFs without installing anything. Handles the boring file admin tasks fast enough that it's worth bookmarking over searching each time.",
     "category": "tool",
-    "tags": [
-      "pdf",
-      "productivity",
-      "utility"
-    ],
+    "tags": ["pdf", "productivity", "utility"],
     "rating": 4.5,
     "featured": false
   },
@@ -908,13 +675,9 @@
     "title": "Smallpdf",
     "url": "https://smallpdf.com/",
     "image": "https://i.ytimg.com/vi/RJfakjLA7VQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6r9r15AE8_c-o6Ncsr8CE00VK-w",
-    "description": "Simple free tools for editing, converting, and compressing PDFs.",
+    "description": "A similar toolkit to iLovePDF with a slightly cleaner interface — worth having both bookmarked since one occasionally handles a format the other doesn't.",
     "category": "tool",
-    "tags": [
-      "pdf",
-      "productivity",
-      "utility"
-    ],
+    "tags": ["pdf", "productivity", "utility"],
     "rating": 4.4,
     "featured": false
   },
@@ -923,13 +686,9 @@
     "title": "TinyWow",
     "url": "https://tinywow.com/",
     "image": "https://i.ytimg.com/vi/yDyO2LLF-8E/sddefault.jpg",
-    "description": "Over 100 free tools for converting, compressing, and editing files.",
+    "description": "A sprawling collection of free file tools — PDF, image, video, text — all in one place with no login wall. Ad-heavy, but the actual tools underneath work fine.",
     "category": "tool",
-    "tags": [
-      "utility",
-      "productivity",
-      "free"
-    ],
+    "tags": ["utility", "productivity", "free"],
     "rating": 4.5,
     "featured": false
   },
@@ -938,13 +697,9 @@
     "title": "10015 Tools",
     "url": "https://10015.io/",
     "image": "https://10015.io/og-image.jpg",
-    "description": "A huge collection of free mini web tools in one place.",
+    "description": "A grab-bag of small, single-purpose web utilities — unit converters, generators, calculators — the kind of tools you need for thirty seconds and then forget exist.",
     "category": "tool",
-    "tags": [
-      "utility",
-      "productivity",
-      "free"
-    ],
+    "tags": ["utility", "productivity", "free"],
     "rating": 4.3,
     "featured": false
   },
@@ -953,13 +708,9 @@
     "title": "Temp Mail",
     "url": "https://temp-mail.org/",
     "image": "https://iseoai.com/wp-content/uploads/2025/03/temp-mail.png",
-    "description": "Generate a temporary, disposable email address instantly.",
+    "description": "Instant disposable email addresses for sign-ups you don't trust with your real inbox. No account needed — the inbox just exists at a URL until you close the tab.",
     "category": "tool",
-    "tags": [
-      "privacy",
-      "email",
-      "utility"
-    ],
+    "tags": ["privacy", "email", "utility"],
     "rating": 4.5,
     "featured": false
   },
@@ -968,13 +719,9 @@
     "title": "Privnote",
     "url": "https://privnote.com/",
     "image": "https://www.pcworld.com/wp-content/uploads/2026/04/Privnote.png",
-    "description": "Send self-destructing secret notes that disappear after being read.",
+    "description": "Send a note that self-destructs after being read once — useful for sharing a password or sensitive info without leaving a permanent copy in someone's inbox.",
     "category": "tool",
-    "tags": [
-      "privacy",
-      "notes",
-      "security"
-    ],
+    "tags": ["privacy", "notes", "security"],
     "rating": 4.4,
     "featured": false
   },
@@ -983,13 +730,9 @@
     "title": "Wayback Machine",
     "url": "https://archive.org/web/",
     "image": "https://www.bleepstatic.com/content/hl-images/2018/08/07/internet-archive.jpg",
-    "description": "Browse old, archived versions of nearly any website in history.",
+    "description": "The Internet Archive's tool for browsing old snapshots of nearly any site in its history. Genuinely useful for research, and occasionally the only way to recover a page that's since disappeared.",
     "category": "weird",
-    "tags": [
-      "archive",
-      "history",
-      "internet"
-    ],
+    "tags": ["archive", "history", "internet"],
     "rating": 4.8,
     "featured": true
   },
@@ -998,13 +741,9 @@
     "title": "This Person Does Not Exist",
     "url": "https://thispersondoesnotexist.com/",
     "image": "https://i.gzn.jp/img/2019/02/17/this-person-does-not-exist/00.jpg",
-    "description": "AI generates a new realistic fake human face every refresh.",
+    "description": "Every refresh generates a new, fully synthetic human face via GAN — no two people are the same, and none of them exist. A stark, simple demo of how far AI image generation has come.",
     "category": "weird",
-    "tags": [
-      "ai",
-      "weird",
-      "generator"
-    ],
+    "tags": ["ai", "weird", "generator"],
     "rating": 4.6,
     "featured": true
   },
@@ -1013,87 +752,53 @@
     "title": "MonkeyType",
     "url": "https://monkeytype.com/",
     "image": "https://cdn.prod.website-files.com/60b165817c17863ee6e54df5/629b9e2f9eb610d1b54a1302_617c759421fd105509083231_maxresdefault.jpeg",
-    "description": "Minimalist typing speed test with clean aesthetic.",
+    "description": "A minimalist typing test with clean typography and no clutter — arguably the best-looking typing test online, with customization that goes deeper than it first appears.",
     "category": "tool",
-    "tags": [
-      "typing",
-      "test",
-      "minimal"
-    ],
+    "tags": ["typing", "test", "minimal"],
     "rating": 4.7,
     "featured": false
-  },
-  {
-    "id": 70,
-    "title": "FitGirl",
-    "url": "https://fitgirl-repacks.site/",
-    "image": "https://www.enduins.com/wp-content/uploads/2024/10/fitgirl.jpg",
-    "description": "Download almost ever pc games for free and safe.",
-    "category": "game",
-    "tags": [
-      "game",
-      "download",
-      "free"
-    ],
-    "rating": 4.8,
-    "featured": true
   },
   {
     "id": 71,
     "title": "Infinite Craft",
     "url": "https://infinitecraft-game.io/",
     "image": "https://neal.fun/share-cards/infinite-craft.png",
-    "description": "Combine elements to create anything using AI. Extremely addictive creativity game.",
+    "description": "Combine any two elements — Water, Fire, or increasingly absurd combinations you've already made — and an AI decides what they become. The scope is genuinely unlimited, which makes it easy to lose an hour without noticing.",
     "category": "super addictive",
-    "tags": [
-      "game",
-      "best",
-      "crafting",
-      "craft"
-    ],
+    "tags": ["game", "best", "crafting", "craft"],
     "rating": 4.8,
-    "featured": false
+    "featured": true
   },
   {
     "id": 72,
     "title": "My Noise",
     "url": "https://mynoise.net/",
     "image": "https://mynoise.net/Pix/card_logo.png",
-    "description": "Powerful ambient sound mixer with hundreds of high-quality sounds.",
+    "description": "A deep ambient sound mixer with dozens of generators — more layers and finer control than most rivals, aimed at people who want to fine-tune their background noise rather than pick a preset.",
     "category": "relax",
-    "tags": [
-      "music",
-      "song",
-      "creativity"
-    ],
+    "tags": ["music", "song", "creativity"],
     "rating": 4.3,
     "featured": false
   },
   {
     "id": 73,
-    "title": "Library Of Babel",
+    "title": "Library of Babel",
     "url": "https://libraryofbabel.info/",
     "image": "https://substackcdn.com/image/fetch/$s_!jqLO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa859f04f-c4b2-46c4-95a1-ba57ba44d14a_2560x1535.jpeg",
-    "description": "An infinite library containing every possible book ever. Truly surreal.",
+    "description": "A generated library containing every possible combination of letters — meaning somewhere in its shelves, every book that could ever be written already exists, buried in noise. More thought experiment than tool, and worth sitting with.",
     "category": "mind blowing",
-    "tags": [
-      "Library",
-      "books"
-    ],
+    "tags": ["Library", "books"],
     "rating": 4,
-    "featured": false
+    "featured": true
   },
   {
     "id": 74,
     "title": "Staggering Beauty",
     "url": "http://www.staggeringbeauty.com/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBd2qLsqRu5CC0L3cxMzOb_lmbr6AQNWkls1SPpWfHygCPIxj4jJD7k4qH&s=10",
-    "description": "Move your mouse and watch a hypnotic creature react. Very trippy.",
+    "description": "Move your mouse and a strange, elastic worm-creature reacts to it in real time. There's no goal — it's a small, oddly satisfying physics toy that's stayed unchanged since the early 2010s.",
     "category": "weird",
-    "tags": [
-      "weird",
-      "jumpscare"
-    ],
+    "tags": ["weird", "jumpscare"],
     "rating": 4.4,
     "featured": false
   },
@@ -1102,12 +807,9 @@
     "title": "Mondrian And Me",
     "url": "https://mondrianandme.com/",
     "image": "https://i.ytimg.com/vi/jneD0tFKKRQ/maxresdefault.jpg",
-    "description": "Create digital art in the classic Mondrian style.",
+    "description": "A simple drawing tool locked to the primary colors and grid lines of Piet Mondrian's style — constraints that make even a quick doodle look intentional.",
     "category": "art",
-    "tags": [
-      "art",
-      "playful"
-    ],
+    "tags": ["art", "playful"],
     "rating": 3.7,
     "featured": false
   },
@@ -1116,25 +818,20 @@
     "title": "My Fridge Food",
     "url": "https://myfridgefood.com/",
     "image": "https://i.pinimg.com/736x/b9/95/7a/b9957a7703e0ccf084e362daecb40e4b.jpg",
-    "description": "Finding recipes based on what is currently in your pantry.",
+    "description": "Enter what's actually in your fridge and it suggests recipes built around those ingredients, instead of sending you shopping for six things you don't have. Solves a genuinely specific, common problem.",
     "category": "useful",
-    "tags": [
-      "good",
-      "recipe"
-    ],
+    "tags": ["good", "recipe"],
     "rating": 4.4,
     "featured": false
   },
   {
     "id": 77,
-    "title": "Tfpxe",
+    "title": "tfpxe.wtf",
     "url": "https://tfpxe.wtf/",
     "image": "https://f4.bcbits.com/img/0027125110_25.jpg",
-    "description": "I dont knwo what's in website it's a weird site.",
+    "description": "Deliberately cryptic and unlabeled — part of the same lineage as sites like LHOHQ, where the point is not knowing what you're about to click into. Approach it the way you'd approach any unmarked door on the internet: curious, cautious.",
     "category": "weird",
-    "tags": [
-      "weird"
-    ],
+    "tags": ["weird"],
     "rating": 2.5,
     "featured": false
   },
@@ -1143,27 +840,20 @@
     "title": "Superbad",
     "url": "https://superbad.com/",
     "image": "https://hips.hearstapps.com/hmg-prod/images/superbad1-1572465225.jpg",
-    "description": "Classic 90s/early 2000s weird web rabbit hole. Ever-changing surreal pages, puzzles, and pure chaos.",
+    "description": "An early-2000s surreal web experience that's stayed almost entirely unchanged — a maze of shifting, chaotic pages with no map and no clear goal. A genuine artifact of an older, weirder internet.",
     "category": "weird",
-    "tags": [
-      "weird",
-      "chaos",
-      "puzzles"
-    ],
+    "tags": ["weird", "chaos", "puzzles"],
     "rating": 3.8,
     "featured": false
   },
   {
     "id": 79,
-    "title": "Lhohq",
+    "title": "LHOHQ",
     "url": "https://lhohq.info/",
     "image": "https://i.ytimg.com/vi/uWUltHkEEYQ/maxresdefault.jpg",
-    "description": "Bizarre, abstract one in the same weird-web family.",
+    "description": "Abstract, disorienting, part of the same \"weird web\" lineage as Superbad and Mouchette. There's no explanation offered anywhere on the site, and that's deliberate.",
     "category": "weird",
-    "tags": [
-      "weird",
-      "bizzare"
-    ],
+    "tags": ["weird", "bizzare"],
     "rating": 3.5,
     "featured": false
   },
@@ -1172,85 +862,64 @@
     "title": "Mouchette",
     "url": "https://mouchette.org/",
     "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Mouchette.png",
-    "description": "Creepy, artistic, interactive oddness.",
+    "description": "A long-running piece of net art built around an unsettling fictional persona — more art project than website, and one of the internet's earliest examples of the format. Worth approaching as art, not entertainment.",
     "category": "weird",
-    "tags": [
-      "weird",
-      "creepy"
-    ],
+    "tags": ["weird", "creepy"],
     "rating": 3.4,
     "featured": false
   },
   {
     "id": 81,
-    "title": "Sentimentalcorp",
+    "title": "Sentimental Corp",
     "url": "http://sentimentalcorp.org",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_T-lz1RbnZWwSiQclgh3X2hZ_QVQbRtGxPUL8xcEx4bh_fLexEf0YpE&s=10",
-    "description": "Surreal and unsettling digital art.",
+    "description": "Surreal, unsettling digital collage art with no clear narrative thread. Fits the same net-art shelf as Mouchette — better understood as a piece to sit with than a site to navigate.",
     "category": "weird",
-    "tags": [
-      "weird",
-      "creepy"
-    ],
+    "tags": ["weird", "creepy"],
     "rating": 2.9,
     "featured": false
   },
   {
     "id": 82,
-    "title": "Redox Games [Test Project]",
+    "title": "Redox Games — Endless Offroad Driving",
     "url": "https://redoxgames.itch.io/endless-offroad-driving",
     "image": "https://img.itch.zone/aW1nLzM0ODgwODEucG5n/original/nE%2F1Fj.png",
-    "description": "Endless offroad terrain exploration. The car feels heavy and the ground is bumpy. Good for free driving but performance and graphics are average.",
+    "description": "A rough, early-access offroad driving prototype — the terrain deformation and weight physics are the standout, even if the visuals are clearly still in progress. Worth a look if you like watching indie 3D projects develop.",
     "category": "game",
-    "tags": [
-      "game",
-      "3d",
-      "car",
-      "driving"
-    ],
+    "tags": ["game", "3d", "car", "driving"],
     "rating": 4.1,
     "featured": false
   },
   {
     "id": 83,
-    "title": "Hexgl Bkore",
+    "title": "HexGL",
     "url": "https://hexgl.bkcore.com/play/",
     "image": "https://i.ytimg.com/vi/se-oorr2zM8/maxresdefault.jpg",
-    "description": "Futuristic hovercraft racing on neon tracks. Controls are responsive but the game can be difficult for beginners. Better for short sessions.",
+    "description": "A slick, Wipeout-style anti-gravity racer built entirely in WebGL, running smoothly even on modest hardware. The steepest learning curve on this list for a browser racer, but the speed sense is genuinely well done.",
     "category": "game",
-    "tags": [
-      "game",
-      "fun"
-    ],
+    "tags": ["game", "fun"],
     "rating": 4.8,
-    "featured": false
+    "featured": true
   },
   {
     "id": 84,
     "title": "Dino 3D",
     "url": "https://dino3d.games/",
     "image": "https://elgoog.im/assets/p/dinosaur-game/3d/media/dinosaur-game-t-rex-run-3d.jpg",
-    "description": "3D version of the classic chrome dino runner. Basic endless running, jump and duck mechanics. Simple but fun for few minutes.",
+    "description": "A 3D remake of Chrome's offline dino runner — same jump-and-duck mechanics, now with depth. A five-minute distraction, not much more, but well executed for what it is.",
     "category": "game",
-    "tags": [
-      "game",
-      "3d",
-      "dino"
-    ],
+    "tags": ["game", "3d", "dino"],
     "rating": 4,
     "featured": false
   },
   {
     "id": 85,
-    "title": "Test lab",
+    "title": "Test Lab AI",
     "url": "https://www.test-lab.ai/",
     "image": "https://i.ytimg.com/vi/E_g98zcdSmk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6OGZCMC0aA29eln2ZW3TBd4kDEw",
-    "description": "I used this ai and i really like it. no login or sighnin it's free.",
+    "description": "A free AI chat tool that skips the sign-up wall entirely — open the tab and start typing. Worth trying if you want to test a prompt quickly without creating another account.",
     "category": "ai",
-    "tags": [
-      "ai",
-      "free"
-    ],
+    "tags": ["ai", "free"],
     "rating": 5,
     "featured": true
   },
@@ -1259,13 +928,9 @@
     "title": "Plai Chat",
     "url": "https://plai.chat/no-login-ai-chat/",
     "image": "https://cdn-01.cms-ap-v2i.applyflow.com/entreerecruitment/wp-content/uploads/2023/09/MailChimp-Blogs-980-x-551-px.png",
-    "description": "It have soo many free ai models its really good i used this i like it ni login, sighin need its free.",
+    "description": "Gives access to several different free AI chat models from one interface, no login required. Handy for comparing how different models answer the same prompt side by side.",
     "category": "ai",
-    "tags": [
-      "ai",
-      "free",
-      "allfreeai"
-    ],
+    "tags": ["ai", "free", "allfreeai"],
     "rating": 4.7,
     "featured": true
   }
