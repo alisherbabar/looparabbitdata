@@ -6,9 +6,51 @@
     "image": "https://littlealchemy2.com/static/img/little-alchemy-2-fb-thumbnail.jpg",
     "description": "Four elements — fire, water, earth, air — and hundreds of hours if you let it. Little Alchemy 2 turns combining into a treasure hunt; there's no wrong move, just discoveries you haven't stumbled on yet. Good for the exact five minutes you say you'll play.",
     "category": "game",
-    "tags": ["game", "alchemy", "creative"],
+    "tags": [
+      "game",
+      "alchemy",
+      "creative"
+    ],
     "rating": 4.6,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "game",
+        "alchemy",
+        "creative",
+        "little"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing",
+        "combine elements",
+        "crafting game",
+        "creativity",
+        "imagination"
+      ],
+      "aliases": [
+        "little alchemy 2",
+        "littlealchemy2"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 126,
+      "related": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Combine simple elements to discover hundreds of amazing creations.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 2,
@@ -17,9 +59,51 @@
     "image": "https://startupresources.io/wp-content/uploads/2019/08/asoftmurmur.png",
     "description": "Rain, thunder, waves, and a dozen other ambient layers you can blend into your own mix and save. Built for people who write, code, or fall asleep better with background noise than silence — no account needed to start.",
     "category": "relax",
-    "tags": ["rain", "focus", "ambient"],
+    "tags": [
+      "rain",
+      "focus",
+      "ambient"
+    ],
     "rating": 4.6,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "rain",
+        "focus",
+        "ambient",
+        "relax",
+        "soft",
+        "murmur"
+      ],
+      "synonyms": [
+        "rainy",
+        "raining",
+        "storm",
+        "relaxing",
+        "chill",
+        "calm",
+        "unwind",
+        "destress"
+      ],
+      "aliases": [
+        "a soft murmur",
+        "asoftmurmur"
+      ],
+      "intent": [
+        "relax",
+        "calm"
+      ],
+      "searchWeight": 126,
+      "related": [
+        15,
+        72
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Mix relaxing ambient sounds like rain, thunder and waves.",
+      "bestFor": "unwinding and relaxing",
+      "recommendedFor": "anyone who needs to chill"
+    }
   },
   {
     "id": 3,
@@ -28,9 +112,51 @@
     "image": "https://media.licdn.com/dms/image/v2/C5612AQGMywrIY0Jh2A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1520254014688?e=1784764800&v=beta&t=WPkQ2i78r5oaf0kR5uAfdgmggd58l2e0ju-GTIW1cC0",
     "description": "Spin a 3D globe and drop into a live radio station anywhere from Lagos to Reykjavik. Less a tool, more a way to eavesdrop on a city you'll probably never visit — the interface gets out of the way and lets the audio do the work.",
     "category": "music",
-    "tags": ["radio", "world", "music"],
+    "tags": [
+      "radio",
+      "world",
+      "music"
+    ],
     "rating": 4.7,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "radio",
+        "world",
+        "music",
+        "garden"
+      ],
+      "synonyms": [
+        "global",
+        "worldwide",
+        "earth",
+        "songs",
+        "audio",
+        "sound",
+        "tunes"
+      ],
+      "aliases": [
+        "radio garden",
+        "radiogarden",
+        "radio"
+      ],
+      "intent": [
+        "music",
+        "audio"
+      ],
+      "searchWeight": 127,
+      "related": [
+        14,
+        7,
+        59,
+        22
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Explore thousands of live radio stations from around the world.",
+      "bestFor": "listening to music or sounds",
+      "recommendedFor": "music lovers"
+    }
   },
   {
     "id": 4,
@@ -39,9 +165,48 @@
     "image": "https://i.ytimg.com/vi/3ao7DdYiwx0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB14Fmd-bcm3QiNW_Jg0PcYSUYlWw",
     "description": "Move your cursor, and somewhere a stock photo model is already pointing at it. Pointer Pointer has no purpose beyond being funny for thirty seconds — which, on a bad day, is sometimes exactly what you need.",
     "category": "funny",
-    "tags": ["random", "funny", "cursor"],
+    "tags": [
+      "random",
+      "funny",
+      "cursor"
+    ],
     "rating": 4.2,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "random",
+        "funny",
+        "cursor",
+        "pointer"
+      ],
+      "synonyms": [
+        "surprise",
+        "surprise me",
+        "discover",
+        "weird",
+        "mouse pointer"
+      ],
+      "aliases": [
+        "pointer pointer",
+        "pointerpointer"
+      ],
+      "intent": [
+        "funny",
+        "entertainment"
+      ],
+      "searchWeight": 102,
+      "related": [
+        21,
+        6,
+        10,
+        12
+      ],
+      "popularity": 84,
+      "confidence": 1,
+      "recommendationReason": "Finds a random photo with someone pointing at your cursor.",
+      "bestFor": "a quick laugh",
+      "recommendedFor": "anyone who's bored"
+    }
   },
   {
     "id": 5,
@@ -50,9 +215,53 @@
     "image": "https://www.puzzleprime.com/wp-content/uploads/2018/07/TheZoomquilt.png",
     "description": "An artwork that zooms into itself forever, each frame painted by a different artist and stitched into one continuous descent. There's no ending — just a strange, hypnotic way to lose ten minutes.",
     "category": "art",
-    "tags": ["art", "infinite", "visual"],
+    "tags": [
+      "art",
+      "infinite",
+      "visual"
+    ],
     "rating": 4.5,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "art",
+        "infinite",
+        "visual",
+        "zoom",
+        "quilt"
+      ],
+      "synonyms": [
+        "drawing",
+        "design",
+        "creative",
+        "paint",
+        "artwork",
+        "endless",
+        "never ending",
+        "visuals",
+        "visual effects"
+      ],
+      "aliases": [
+        "zoom quilt",
+        "zoomquilt"
+      ],
+      "intent": [
+        "art",
+        "creative"
+      ],
+      "searchWeight": 125,
+      "related": [
+        45,
+        75,
+        13,
+        20
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "An endlessly zooming surreal artwork experience.",
+      "bestFor": "creative expression",
+      "recommendedFor": "artists and doodlers"
+    }
   },
   {
     "id": 6,
@@ -61,9 +270,46 @@
     "image": "https://theuselessweb.com/share-image-large.png",
     "description": "Click once, land on something nobody would ever search for on purpose. The Useless Web is the internet's junk drawer, and that's the whole appeal — it's the fastest route to something genuinely surprising.",
     "category": "random",
-    "tags": ["random", "fun"],
+    "tags": [
+      "random",
+      "fun"
+    ],
     "rating": 4.3,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "random",
+        "fun",
+        "useless",
+        "web"
+      ],
+      "synonyms": [
+        "surprise",
+        "surprise me",
+        "discover",
+        "weird"
+      ],
+      "aliases": [
+        "the useless web",
+        "theuselessweb"
+      ],
+      "intent": [
+        "random",
+        "discover"
+      ],
+      "searchWeight": 123,
+      "related": [
+        12,
+        4,
+        10,
+        11
+      ],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "Visit a random useless but entertaining website.",
+      "bestFor": "random discovery",
+      "recommendedFor": "people who like surprises"
+    }
   },
   {
     "id": 7,
@@ -72,9 +318,50 @@
     "image": "https://helios-i.mashable.com/imagery/videos/03UJVvAAB9MbKrRiC5aJQO6/hero-image.fill.size_1248x702.v1614275257.png",
     "description": "Real people around the world upload a video of the view from their window — that's it. Window Swap is oddly grounding: a two-minute look at rain in Seoul or traffic in São Paulo, with nothing being sold to you.",
     "category": "travel",
-    "tags": ["world", "travel", "window"],
+    "tags": [
+      "world",
+      "travel",
+      "window"
+    ],
     "rating": 4.5,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "world",
+        "travel",
+        "window",
+        "swap"
+      ],
+      "synonyms": [
+        "global",
+        "worldwide",
+        "earth",
+        "traveling",
+        "explore",
+        "trip"
+      ],
+      "aliases": [
+        "window swap",
+        "windowswap",
+        "window-swap"
+      ],
+      "intent": [
+        "travel",
+        "explore"
+      ],
+      "searchWeight": 125,
+      "related": [
+        10,
+        3,
+        59,
+        9
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Look through windows from random homes across the globe.",
+      "bestFor": "exploring the world from your screen",
+      "recommendedFor": "armchair travelers"
+    }
   },
   {
     "id": 8,
@@ -83,9 +370,56 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Quick%2C_Draw%21_cover.png",
     "description": "Google's neural network tries to guess your doodle in real time, and watching it get things wrong is half the fun. A fast, genuinely playable demo of how machine learning \"sees\" — not just a gimmick.",
     "category": "game",
-    "tags": ["ai", "drawing", "google"],
+    "tags": [
+      "ai",
+      "drawing",
+      "google"
+    ],
     "rating": 4.7,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "ai",
+        "drawing",
+        "google",
+        "game",
+        "quick",
+        "draw"
+      ],
+      "synonyms": [
+        "artificial intelligence",
+        "bot",
+        "chatbot",
+        "ml",
+        "draw",
+        "sketch",
+        "sketching",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "quick draw",
+        "quickdraw"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 127,
+      "related": [
+        39,
+        40,
+        1,
+        16
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Draw objects while AI guesses what you are sketching.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 9,
@@ -94,9 +428,49 @@
     "image": "https://www.earthcam.net/graphics/ai/EarthCam_AI_Object_Identification-1.jpg?20251027a",
     "description": "A directory of live public webcams — Times Square, beaches, zoos, city skylines — running in real time. Useful for checking weather or crowds somewhere before you go, or just for ambient background noise while you work.",
     "category": "live",
-    "tags": ["camera", "live", "travel"],
+    "tags": [
+      "camera",
+      "live",
+      "travel"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "camera",
+        "live",
+        "travel",
+        "earthcam"
+      ],
+      "synonyms": [
+        "webcam",
+        "live cam",
+        "real time",
+        "realtime",
+        "traveling",
+        "explore",
+        "trip"
+      ],
+      "aliases": [
+        "earthcam"
+      ],
+      "intent": [
+        "live",
+        "tracking"
+      ],
+      "searchWeight": 100,
+      "related": [
+        58,
+        59,
+        60,
+        7
+      ],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "Watch live webcams from famous places worldwide.",
+      "bestFor": "real-time live views",
+      "recommendedFor": "people who like watching live feeds"
+    }
   },
   {
     "id": 10,
@@ -105,9 +479,52 @@
     "image": "https://webiano.digital/wp-content/uploads/2026/04/MapCrunch-turns-the-whole-world-into-a-random-button.webp",
     "description": "Teleports you to a random Street View location anywhere Google's cameras have driven — sometimes a highway in Kansas, sometimes a market in Jakarta. Filters let you narrow it to specific countries if you're after somewhere in particular.",
     "category": "travel",
-    "tags": ["maps", "streetview", "random"],
+    "tags": [
+      "maps",
+      "streetview",
+      "random"
+    ],
     "rating": 4.3,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "maps",
+        "streetview",
+        "random",
+        "travel",
+        "mapcrunch"
+      ],
+      "synonyms": [
+        "map",
+        "geography",
+        "surprise",
+        "surprise me",
+        "discover",
+        "weird",
+        "traveling",
+        "explore",
+        "trip"
+      ],
+      "aliases": [
+        "mapcrunch"
+      ],
+      "intent": [
+        "travel",
+        "explore"
+      ],
+      "searchWeight": 123,
+      "related": [
+        7,
+        18,
+        4,
+        6
+      ],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "Teleport to a random location in Street View.",
+      "bestFor": "exploring the world from your screen",
+      "recommendedFor": "armchair travelers"
+    }
   },
   {
     "id": 11,
@@ -116,9 +533,47 @@
     "image": "https://www.pcworld.com/wp-content/uploads/2026/06/NealFun.png?w=1024",
     "description": "One developer, dozens of small interactive experiments — a size-of-space scroller, a \"password game,\" a deathclock. Consistently the most inventive site on this list; almost everything here rewards clicking around.",
     "category": "interactive",
-    "tags": ["fun", "games", "interactive"],
+    "tags": [
+      "fun",
+      "games",
+      "interactive"
+    ],
     "rating": 4.9,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "fun",
+        "games",
+        "interactive",
+        "neal"
+      ],
+      "synonyms": [
+        "game",
+        "play",
+        "gaming"
+      ],
+      "aliases": [
+        "neal.fun",
+        "nealfun",
+        "neal"
+      ],
+      "intent": [
+        "interactive",
+        "fun"
+      ],
+      "searchWeight": 129,
+      "related": [
+        6,
+        16,
+        24,
+        25
+      ],
+      "popularity": 98,
+      "confidence": 1,
+      "recommendationReason": "A collection of creative interactive experiments and games.",
+      "bestFor": "hands-on fun",
+      "recommendedFor": "curious clickers"
+    }
   },
   {
     "id": 12,
@@ -127,9 +582,44 @@
     "image": "https://www.boredbutton.com/i/bb-fb.jpg",
     "description": "One big red button, one random destination from a curated pool of odd corners of the internet. It's The Useless Web's louder cousin — less polished, more chaotic, occasionally NSFW-adjacent so click with that in mind.",
     "category": "random",
-    "tags": ["bored", "random"],
+    "tags": [
+      "bored",
+      "random"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "bored",
+        "random",
+        "button"
+      ],
+      "synonyms": [
+        "surprise",
+        "surprise me",
+        "discover",
+        "weird"
+      ],
+      "aliases": [
+        "bored button",
+        "boredbutton"
+      ],
+      "intent": [
+        "random",
+        "discover"
+      ],
+      "searchWeight": 100,
+      "related": [
+        6,
+        4,
+        10
+      ],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "Click once and discover something fun to do online.",
+      "bestFor": "random discovery",
+      "recommendedFor": "people who like surprises"
+    }
   },
   {
     "id": 13,
@@ -138,9 +628,48 @@
     "image": "https://i.pinimg.com/736x/b6/87/51/b687516b02ec775038c04b4ca54ad03d.jpg",
     "description": "Pour digital sand in layers of color and watch it settle under gravity. No save-and-share gimmicks, no ads interrupting — just a quiet, meditative art tool that's stayed almost unchanged since 2011.",
     "category": "art",
-    "tags": ["sand", "creative"],
+    "tags": [
+      "sand",
+      "creative"
+    ],
     "rating": 4.3,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "sand",
+        "creative",
+        "art"
+      ],
+      "synonyms": [
+        "creativity",
+        "imagination",
+        "drawing",
+        "design",
+        "creative",
+        "paint",
+        "artwork"
+      ],
+      "aliases": [
+        "this is sand",
+        "thisissand"
+      ],
+      "intent": [
+        "art",
+        "creative"
+      ],
+      "searchWeight": 103,
+      "related": [
+        45,
+        5,
+        75,
+        1
+      ],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "Create beautiful sand art digitally.",
+      "bestFor": "creative expression",
+      "recommendedFor": "artists and doodlers"
+    }
   },
   {
     "id": 14,
@@ -149,9 +678,44 @@
     "image": "https://lh6.ggpht.com/qPyi-sFdl3N3NAzh88KTGVvEi2Je1cnQUCB_DqJzRZENEBgYcim9uufuGIfvQOPvmBAkc2rL41OLNQNLQuRkUWPbTmnsiYovKWjz",
     "description": "Tap letter keys and get instant, synced sound-and-animation combos — closer to a musical instrument than an app. Works well as a five-minute creative reset between actual work.",
     "category": "music",
-    "tags": ["music", "animation"],
+    "tags": [
+      "music",
+      "animation"
+    ],
     "rating": 4.6,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "music",
+        "animation",
+        "patatap"
+      ],
+      "synonyms": [
+        "songs",
+        "audio",
+        "sound",
+        "tunes"
+      ],
+      "aliases": [
+        "patatap"
+      ],
+      "intent": [
+        "music",
+        "audio"
+      ],
+      "searchWeight": 126,
+      "related": [
+        3,
+        22,
+        57,
+        72
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Create music and colorful animations using your keyboard.",
+      "bestFor": "listening to music or sounds",
+      "recommendedFor": "music lovers"
+    }
   },
   {
     "id": 15,
@@ -160,9 +724,52 @@
     "image": "https://i.ytimg.com/vi/SDmbGrQqWog/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGFIgYChlMA8=&rs=AOn4CLAeX1hfJwc_T-Wp7hwoTzUQkNd4bA",
     "description": "A single, well-recorded loop of rain — no mixer, no options, just rain. Simpler than A Soft Murmur by design, for people who want one sound done right instead of a dozen to fiddle with.",
     "category": "relax",
-    "tags": ["rain", "sleep"],
+    "tags": [
+      "rain",
+      "sleep"
+    ],
     "rating": 4.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "rain",
+        "sleep",
+        "relax",
+        "rainy",
+        "mood"
+      ],
+      "synonyms": [
+        "rainy",
+        "raining",
+        "storm",
+        "sleeping",
+        "insomnia",
+        "bedtime",
+        "relaxing",
+        "chill",
+        "calm",
+        "unwind",
+        "destress"
+      ],
+      "aliases": [
+        "rainy mood",
+        "rainymood"
+      ],
+      "intent": [
+        "relax",
+        "calm"
+      ],
+      "searchWeight": 105,
+      "related": [
+        2,
+        72
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Relax with realistic rain sounds.",
+      "bestFor": "unwinding and relaxing",
+      "recommendedFor": "anyone who needs to chill"
+    }
   },
   {
     "id": 16,
@@ -171,9 +778,48 @@
     "image": "https://ineews.eu/wp-content/uploads/2021/02/Find-The-Invisible-Cow.jpg",
     "description": "A sound-only hide-and-seek game — the cow moos louder as you get closer, and you have to triangulate its position blind. Genuinely clever for something this minimal, with no visuals until you find it.",
     "category": "game",
-    "tags": ["audio", "fun"],
+    "tags": [
+      "audio",
+      "fun"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "audio",
+        "fun",
+        "game",
+        "find",
+        "invisible",
+        "cow"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "find the invisible cow",
+        "findtheinvisiblecow"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 100,
+      "related": [
+        25,
+        28,
+        29,
+        31
+      ],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "Use sound clues to find an invisible cow.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 17,
@@ -182,9 +828,41 @@
     "image": "https://res.cloudinary.com/memories-prod/image/upload/v1754448447/assets/pro-player-thumb_ajfzy8.png",
     "description": "Write a letter to yourself and pick a delivery date, months or years out. FutureMe has been running since 2002, which means some people are still receiving letters they wrote as teenagers — that history is part of the appeal.",
     "category": "productivity",
-    "tags": ["future", "letters"],
+    "tags": [
+      "future",
+      "letters"
+    ],
     "rating": 4.3,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "future",
+        "letters",
+        "productivity",
+        "futureme"
+      ],
+      "synonyms": [
+        "letter",
+        "words",
+        "productive",
+        "focus",
+        "work"
+      ],
+      "aliases": [
+        "futureme"
+      ],
+      "intent": [
+        "productivity",
+        "tool"
+      ],
+      "searchWeight": 103,
+      "related": [],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "Send a letter to your future self.",
+      "bestFor": "getting things done",
+      "recommendedFor": "people who want to be productive"
+    }
   },
   {
     "id": 18,
@@ -193,9 +871,49 @@
     "image": "https://framerusercontent.com/images/iKYjfBwljOAWCeDlHTM5fPyqzw.jpg?width=1000&height=563",
     "description": "Drop into Street View with no location clues and guess where on Earth you are, scored by distance. What starts as a party game turns into real geography skill — road signs, architecture, and license plates all become evidence.",
     "category": "game",
-    "tags": ["maps", "geography"],
+    "tags": [
+      "maps",
+      "geography"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "maps",
+        "geography",
+        "game",
+        "geoguessr"
+      ],
+      "synonyms": [
+        "map",
+        "geography",
+        "maps",
+        "geo",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "geoguessr"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 128,
+      "related": [
+        1,
+        8,
+        16,
+        25
+      ],
+      "popularity": 96,
+      "confidence": 1,
+      "recommendationReason": "Guess locations around the world using Street View.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 19,
@@ -204,9 +922,41 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlylqU1PLCbi9YjAZ_IRjv_HGDKuKFJb5MwlZTb_24E_63qXPIamV7Nik&s=10",
     "description": "Type out what's worrying you, watch it turn into a pixel and drift off into a sixty-second animated sky. It's not therapy, but it's a genuinely calming minute when your head's too full.",
     "category": "mindfulness",
-    "tags": ["meditation", "calm"],
+    "tags": [
+      "meditation",
+      "calm"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "meditation",
+        "calm",
+        "mindfulness",
+        "pixel",
+        "thoughts"
+      ],
+      "synonyms": [
+        "meditate",
+        "mindfulness",
+        "calm"
+      ],
+      "aliases": [
+        "pixel thoughts",
+        "pixelthoughts"
+      ],
+      "intent": [
+        "mindfulness",
+        "relax"
+      ],
+      "searchWeight": 104,
+      "related": [],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "A calming one-minute meditation for your worries.",
+      "bestFor": "calming your mind",
+      "recommendedFor": "anyone feeling stressed"
+    }
   },
   {
     "id": 20,
@@ -215,9 +965,42 @@
     "image": "https://i.ytimg.com/vi/pISHt9TzwAA/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDwmeZWbjQxNrJ47L0KZ4iQ-kL90w",
     "description": "A gallery of optical illusions and afterimage effects that actually work — not clickbait \"stare at this\" images, but tested visual tricks. Worth a warning: strobe-heavy, so skip it if you're photosensitive.",
     "category": "illusion",
-    "tags": ["illusion", "visual"],
+    "tags": [
+      "illusion",
+      "visual"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "illusion",
+        "visual",
+        "strobe",
+        "cool"
+      ],
+      "synonyms": [
+        "visuals",
+        "visual effects"
+      ],
+      "aliases": [
+        "strobe cool",
+        "strobecool",
+        "strobe"
+      ],
+      "intent": [
+        "illusion",
+        "visual"
+      ],
+      "searchWeight": 100,
+      "related": [
+        5
+      ],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "Play with fascinating optical illusions and visual effects.",
+      "bestFor": "mind-bending visuals",
+      "recommendedFor": "people who love optical illusions"
+    }
   },
   {
     "id": 21,
@@ -226,9 +1009,42 @@
     "image": "https://laughingsquid.com/wp-content/uploads/Cat-Bounce.jpg",
     "description": "Cats bounce across your screen, and clicking adds more cats. There's no goal and no metrics — it exists purely to be a little bit silly for as long as you let it run in a background tab.",
     "category": "funny",
-    "tags": ["cats", "funny"],
+    "tags": [
+      "cats",
+      "funny"
+    ],
     "rating": 3.9,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "cats",
+        "funny",
+        "cat",
+        "bounce"
+      ],
+      "synonyms": [
+        "cat",
+        "kitten"
+      ],
+      "aliases": [
+        "cat bounce",
+        "catbounce",
+        "cat-bounce"
+      ],
+      "intent": [
+        "funny",
+        "entertainment"
+      ],
+      "searchWeight": 99,
+      "related": [
+        4
+      ],
+      "popularity": 78,
+      "confidence": 1,
+      "recommendationReason": "Cute cats bouncing around your screen.",
+      "bestFor": "a quick laugh",
+      "recommendedFor": "anyone who's bored"
+    }
   },
   {
     "id": 22,
@@ -237,9 +1053,51 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-07lGYsEpNI67UCSEIEdEIOFBLaavzcvlCco58lsTAIIm0VXEBvtOLlU&s=10",
     "description": "A soundboard of meme audio clips you can play or download instantly — the \"bruh\" sound effect and its many cousins, organized and searchable. Useful for stream overlays or just annoying your friends on a call.",
     "category": "useful",
-    "tags": ["music", "memes", "sounds"],
+    "tags": [
+      "music",
+      "memes",
+      "sounds"
+    ],
     "rating": 4.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "music",
+        "memes",
+        "sounds",
+        "useful",
+        "myinstants"
+      ],
+      "synonyms": [
+        "songs",
+        "audio",
+        "sound",
+        "tunes",
+        "meme",
+        "funny sounds",
+        "sound effects",
+        "sfx"
+      ],
+      "aliases": [
+        "myinstants"
+      ],
+      "intent": [
+        "useful",
+        "tool"
+      ],
+      "searchWeight": 105,
+      "related": [
+        76,
+        3,
+        14,
+        57
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Random sounds for memes and funny moments.",
+      "bestFor": "everyday practical use",
+      "recommendedFor": "anyone who wants something genuinely useful"
+    }
   },
   {
     "id": 23,
@@ -248,9 +1106,46 @@
     "image": "https://webiano.digital/wp-content/uploads/2026/06/Windows-93-turns-a-fake-desktop-into-a-real-internet-adventure.webp",
     "description": "A fake, glitchy operating system stuck between eras — half Windows 95, half broken internet, with working mini-apps and games buried inside. Best explored without a plan; poke every icon.",
     "category": "weird",
-    "tags": ["weird", "old", "windows"],
+    "tags": [
+      "weird",
+      "old",
+      "windows"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weird",
+        "old",
+        "windows"
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy"
+      ],
+      "aliases": [
+        "windows 93",
+        "windows93"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 104,
+      "related": [
+        68,
+        74,
+        77,
+        78
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "A Windows 93 simulator with fun apps and games.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 24,
@@ -259,9 +1154,42 @@
     "image": "https://i.pinimg.com/736x/af/23/06/af23067984bb672640f096e6ab546255.jpg",
     "description": "Colorful blocks fall in an endless loop with a looping synth soundtrack, and nothing else happens. It's deliberately, proudly pointless — a screensaver you can control.",
     "category": "useless",
-    "tags": ["timepass", "useless", "fun"],
+    "tags": [
+      "timepass",
+      "useless",
+      "fun"
+    ],
     "rating": 3.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "timepass",
+        "useless",
+        "fun",
+        "falling"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "falling falling",
+        "fallingfalling"
+      ],
+      "intent": [
+        "useless",
+        "fun"
+      ],
+      "searchWeight": 95,
+      "related": [
+        6,
+        11,
+        16,
+        25
+      ],
+      "popularity": 70,
+      "confidence": 1,
+      "recommendationReason": "A useless website that plays a never-ending loop of falling blocks and music.",
+      "bestFor": "pure pointless fun",
+      "recommendedFor": "people who enjoy useless websites"
+    }
   },
   {
     "id": 25,
@@ -270,9 +1198,49 @@
     "image": "https://store-images.s-microsoft.com/image/apps.39397.13845322647858210.8b1f39c3-ddc5-416c-a028-4616783ea5e8.28b59252-a476-4fef-b846-a5037b74989e",
     "description": "A fast, low-spec browser FPS that loads in seconds with no download — surprisingly competitive for something running entirely in a tab. Good pick if your machine can't handle a real shooter but you still want one.",
     "category": "game",
-    "tags": ["game", "fun", "FPS Game"],
+    "tags": [
+      "game",
+      "fun",
+      "FPS Game"
+    ],
     "rating": 5,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "game",
+        "fun",
+        "FPS Game",
+        "krunker"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing",
+        "shooter",
+        "fps",
+        "first person shooter"
+      ],
+      "aliases": [
+        "krunker"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 130,
+      "related": [
+        26,
+        28,
+        29,
+        31
+      ],
+      "popularity": 100,
+      "confidence": 1,
+      "recommendationReason": "Fast-paced online multiplayer FPS game.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 26,
@@ -281,9 +1249,52 @@
     "image": "https://imgs.crazygames.com/shellshockersio_16x9/20260203211252/shellshockersio_16x9-cover?metadata=none&quality=60&height=6983",
     "description": "Multiplayer FPS where everyone's an armed egg. The premise is deliberately absurd, but the gunplay underneath is tighter than you'd expect from a browser game.",
     "category": "game",
-    "tags": ["game", "egg", "FPS Game"],
+    "tags": [
+      "game",
+      "egg",
+      "FPS Game"
+    ],
     "rating": 4.3,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "game",
+        "egg",
+        "FPS Game",
+        "shell",
+        "shockers"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing",
+        "shooter",
+        "fps",
+        "first person shooter"
+      ],
+      "aliases": [
+        "shell shockers",
+        "shellshockers",
+        "shellshock"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 103,
+      "related": [
+        25,
+        1,
+        27,
+        28
+      ],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "Battle as armed eggs in hilarious online matches.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 27,
@@ -292,9 +1303,48 @@
     "image": "https://imgs.crazygames.com/games/slitherio/cover-1587331280441.png?format=auto&quality=100&metadata=none&width=1200",
     "description": "A multiplayer take on Snake — grow by eating orbs, avoid bigger snakes, cut off smaller ones. Simple rules, but the real-time crowd of other players is what keeps it replayable.",
     "category": "game",
-    "tags": ["snake", "game", "Arcade"],
+    "tags": [
+      "snake",
+      "game",
+      "Arcade"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "snake",
+        "game",
+        "Arcade",
+        "slither"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "slither.io",
+        "slitherio",
+        "slither"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 104,
+      "related": [
+        28,
+        31,
+        1,
+        25
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "Grow your snake by eating glowing orbs.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 28,
@@ -303,9 +1353,49 @@
     "image": "https://i.ytimg.com/vi/ztPmymDpLwI/maxresdefault.jpg",
     "description": "The original \"eat smaller, avoid bigger\" browser game that spawned an entire genre of .io games. Still busy with active lobbies years later — a decent barometer for how much staying power a simple idea can have.",
     "category": "game",
-    "tags": ["Arcade", "game", "fun"],
+    "tags": [
+      "Arcade",
+      "game",
+      "fun"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "Arcade",
+        "game",
+        "fun",
+        "agar",
+        "arcade"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "agar.io",
+        "agario",
+        "agar"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 100,
+      "related": [
+        31,
+        25,
+        27,
+        29
+      ],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "Consume smaller cells to dominate the arena.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 29,
@@ -314,9 +1404,48 @@
     "image": "https://diep.io/title.png",
     "description": "Agar.io's tank-combat cousin — earn XP, choose upgrade paths, and specialize your tank as matches go on. More strategic than most .io games thanks to the branching upgrade tree.",
     "category": "game",
-    "tags": ["game", "action", "fun"],
+    "tags": [
+      "game",
+      "action",
+      "fun"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "game",
+        "action",
+        "fun",
+        "diep"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "diep.io",
+        "diepio",
+        "diep"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 100,
+      "related": [
+        25,
+        28,
+        31,
+        32
+      ],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "Upgrade your tank and destroy enemy players.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 30,
@@ -325,9 +1454,52 @@
     "image": "https://imgs.crazygames.com/survev_16x9/20251009021953/survev_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
     "description": "A stripped-down, top-down battle royale that runs entirely in-browser with no install. Matches are short, which makes it a good pick when you want the battle royale loop without the 20-minute time commitment.",
     "category": "game",
-    "tags": ["Battle Royale", "game", "enjoy"],
+    "tags": [
+      "Battle Royale",
+      "game",
+      "enjoy"
+    ],
     "rating": 4.1,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "Battle Royale",
+        "game",
+        "enjoy",
+        "surviv",
+        "battle",
+        "royale"
+      ],
+      "synonyms": [
+        "battle royale",
+        "br game",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "survev (surviv.io)",
+        "survevsurvivio",
+        "survev"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 101,
+      "related": [
+        1,
+        25,
+        26,
+        27
+      ],
+      "popularity": 82,
+      "confidence": 1,
+      "recommendationReason": "Browser battle royale packed with fast action.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 31,
@@ -336,9 +1508,50 @@
     "image": "https://static.keygames.com/1/94341/83843/1200x630/paperio-2.webp",
     "description": "Claim territory by drawing loops back to your base while avoiding rival trails — easy to learn, tense once other players start cutting you off. One of the better .io games that also plays well on desktop.",
     "category": "game",
-    "tags": ["Arcade", "game", "fun"],
+    "tags": [
+      "Arcade",
+      "game",
+      "fun"
+    ],
     "rating": 4.1,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "Arcade",
+        "game",
+        "fun",
+        "paper",
+        "arcade"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "paper.io",
+        "paperio",
+        "paper-io",
+        "paper io"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 101,
+      "related": [
+        28,
+        25,
+        27,
+        29
+      ],
+      "popularity": 82,
+      "confidence": 1,
+      "recommendationReason": "Capture territory while avoiding enemy trails.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 32,
@@ -347,9 +1560,49 @@
     "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000069917/28c5a57b2711d70dbeb4dd55155691e8135a3069bad3455547392878c0162861",
     "description": "Control a growing black hole and swallow a city, block by block, car by car. Purely mindless in the best way — good for a five-minute break between tasks.",
     "category": "game",
-    "tags": ["casual", "game", "fun"],
+    "tags": [
+      "casual",
+      "game",
+      "fun"
+    ],
     "rating": 4.2,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "casual",
+        "game",
+        "fun",
+        "hole"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "hole.io",
+        "holeio",
+        "hole-io",
+        "hole io"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 102,
+      "related": [
+        25,
+        28,
+        29,
+        31
+      ],
+      "popularity": 84,
+      "confidence": 1,
+      "recommendationReason": "Swallow everything and become the biggest hole.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 33,
@@ -358,9 +1611,54 @@
     "image": "https://tetr.io/res/about/desktop-video-poster.png",
     "description": "A serious, competitive modern Tetris client with ranked multiplayer and real matchmaking — not a novelty clone. If you grew up on Tetris and want the sweaty version, this is it.",
     "category": "game",
-    "tags": ["puzzle", "multiplayer", "game"],
+    "tags": [
+      "puzzle",
+      "multiplayer",
+      "game"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "puzzle",
+        "multiplayer",
+        "game",
+        "tetr"
+      ],
+      "synonyms": [
+        "puzzles",
+        "brain teaser",
+        "logic",
+        "multi player",
+        "with friends",
+        "online multiplayer",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "tetr.io",
+        "tetrio",
+        "tetr"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 128,
+      "related": [
+        34,
+        35,
+        1,
+        25
+      ],
+      "popularity": 96,
+      "confidence": 1,
+      "recommendationReason": "Competitive modern Tetris with online multiplayer.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 34,
@@ -369,9 +1667,52 @@
     "image": "https://www.coolmathgames.com/sites/default/files/styles/mobile_game_image/public/2048_OG-logo.jpg.webp?itok=BKildIhs",
     "description": "The tile-merging puzzle that was everywhere in 2014, still exactly as addictive. No ads, no login, no changes to the formula that made it work in the first place.",
     "category": "game",
-    "tags": ["puzzle", "numbers", "game"],
+    "tags": [
+      "puzzle",
+      "numbers",
+      "game"
+    ],
     "rating": 4.6,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "puzzle",
+        "numbers",
+        "game",
+        "2048"
+      ],
+      "synonyms": [
+        "puzzles",
+        "brain teaser",
+        "logic",
+        "number game",
+        "math",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "2048",
+        "play2048"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 106,
+      "related": [
+        33,
+        35,
+        1,
+        25
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Merge matching tiles to reach the number 2048.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 35,
@@ -380,9 +1721,50 @@
     "image": "https://m.media-amazon.com/images/I/51x5yEr3VCL.png",
     "description": "A hexagon-based spin on Tetris where blocks rotate around a shrinking center instead of falling straight down. Faster and more disorienting than it sounds — worth trying once you've mastered regular Tetris.",
     "category": "game",
-    "tags": ["puzzle", "arcade", "game"],
+    "tags": [
+      "puzzle",
+      "arcade",
+      "game"
+    ],
     "rating": 4.2,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "puzzle",
+        "arcade",
+        "game",
+        "hextris"
+      ],
+      "synonyms": [
+        "puzzles",
+        "brain teaser",
+        "logic",
+        "arcade game",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "hextris"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 102,
+      "related": [
+        33,
+        34,
+        1,
+        25
+      ],
+      "popularity": 84,
+      "confidence": 1,
+      "recommendationReason": "A fast-paced hexagon puzzle game.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 36,
@@ -391,9 +1773,53 @@
     "image": "https://i.ytimg.com/vi/D0KFvq1qmwk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgCxDJ6LimC1gCzROBj-dZS2JaEA",
     "description": "The largest online chess platform, with matchmaking across every skill level plus lessons, puzzles, and analysis tools. The free tier alone is more than most casual players will ever need.",
     "category": "game",
-    "tags": ["chess", "strategy", "board"],
+    "tags": [
+      "chess",
+      "strategy",
+      "board"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "chess",
+        "strategy",
+        "board",
+        "game",
+        "com"
+      ],
+      "synonyms": [
+        "chess game",
+        "checkmate",
+        "strategic",
+        "board game",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "chess.com",
+        "chesscom",
+        "chess"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 128,
+      "related": [
+        37,
+        1,
+        8,
+        16
+      ],
+      "popularity": 96,
+      "confidence": 1,
+      "recommendationReason": "Play chess against millions of players online.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 37,
@@ -402,9 +1828,50 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Landscape-Lichess-logo.jpg",
     "description": "A genuinely free, open-source, ad-free alternative to Chess.com — same core experience, no paywalled features. The choice if you want chess without the upsells.",
     "category": "game",
-    "tags": ["chess", "strategy", "free"],
+    "tags": [
+      "chess",
+      "strategy",
+      "free"
+    ],
     "rating": 4.9,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "chess",
+        "strategy",
+        "free",
+        "game",
+        "lichess"
+      ],
+      "synonyms": [
+        "chess game",
+        "checkmate",
+        "strategic",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "lichess"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 129,
+      "related": [
+        36,
+        1,
+        8,
+        16
+      ],
+      "popularity": 98,
+      "confidence": 1,
+      "recommendationReason": "Free and open-source online chess platform.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 38,
@@ -413,9 +1880,54 @@
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/884670/ss_4e20d1f7abd53728d85d7673e0e33421fc4def6a.1920x1080.jpg?t=1762966985",
     "description": "The party word-guessing game, playable online with friends across different rooms. Works well as a low-effort remote hangout — no app install, just a shared link.",
     "category": "game",
-    "tags": ["party", "word", "multiplayer"],
+    "tags": [
+      "party",
+      "word",
+      "multiplayer"
+    ],
     "rating": 4.7,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "party",
+        "word",
+        "multiplayer",
+        "game",
+        "codenames"
+      ],
+      "synonyms": [
+        "party game",
+        "with friends",
+        "group game",
+        "word game",
+        "words",
+        "multi player",
+        "online multiplayer",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "codenames"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 107,
+      "related": [
+        39,
+        33,
+        40,
+        41
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Guess secret words with your teammates.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 39,
@@ -424,9 +1936,57 @@
     "image": "https://skribbliogame.io/data/image/options/skribbl-io.jpg",
     "description": "Browser Pictionary with strangers or friends — draw, guess, repeat. The chaos of other people's terrible drawings is honestly most of the entertainment.",
     "category": "game",
-    "tags": ["drawing", "party", "multiplayer"],
+    "tags": [
+      "drawing",
+      "party",
+      "multiplayer"
+    ],
     "rating": 4.6,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "drawing",
+        "party",
+        "multiplayer",
+        "game",
+        "skribbl"
+      ],
+      "synonyms": [
+        "draw",
+        "sketch",
+        "sketching",
+        "party game",
+        "with friends",
+        "group game",
+        "multi player",
+        "online multiplayer",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "skribbl.io",
+        "skribblio",
+        "skribbl"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 126,
+      "related": [
+        38,
+        40,
+        8,
+        33
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Draw pictures while others guess the word.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 40,
@@ -435,9 +1995,55 @@
     "image": "https://garticphone.com/images/thumb.png",
     "description": "A drawing-and-telephone hybrid — you describe a drawing, the next person draws your description, and so on, getting delightfully wrong by the end of each chain. Best played with a full room of friends.",
     "category": "game",
-    "tags": ["drawing", "party", "fun"],
+    "tags": [
+      "drawing",
+      "party",
+      "fun"
+    ],
     "rating": 4.7,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "drawing",
+        "party",
+        "fun",
+        "game",
+        "gartic",
+        "phone"
+      ],
+      "synonyms": [
+        "draw",
+        "sketch",
+        "sketching",
+        "party game",
+        "with friends",
+        "group game",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "gartic phone",
+        "garticphone"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 127,
+      "related": [
+        39,
+        8,
+        16,
+        25
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Funny drawing and telephone party game.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 41,
@@ -446,9 +2052,54 @@
     "image": "https://wordleunlimited.org/wordle_unlimited_1200_630.png",
     "description": "The original Wordle only gives you one puzzle a day; this gives you as many as you want. If you finished today's word in under a minute and wanted more, this fills the gap.",
     "category": "game",
-    "tags": ["word", "puzzle", "brain"],
+    "tags": [
+      "word",
+      "puzzle",
+      "brain"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "word",
+        "puzzle",
+        "brain",
+        "game",
+        "wordle",
+        "unlimited"
+      ],
+      "synonyms": [
+        "word game",
+        "words",
+        "puzzles",
+        "brain teaser",
+        "logic",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "wordle unlimited",
+        "wordleunlimited"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 100,
+      "related": [
+        33,
+        34,
+        35,
+        38
+      ],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "Play unlimited Wordle puzzles anytime.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 42,
@@ -457,9 +2108,49 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGRTP5k_iksw8NACzgse11xUuSvx2GLN47hnQyXbPOE-g4JldEQ1T_CI&s=10",
     "description": "A procedurally generated, endless driving simulator with no traffic, no objectives, and no rush — just scenic roads that regenerate as you go. Closer to a screensaver you can steer than an actual driving game.",
     "category": "game",
-    "tags": ["driving", "relaxing", "simulation"],
+    "tags": [
+      "driving",
+      "relaxing",
+      "simulation"
+    ],
     "rating": 5,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "driving",
+        "relaxing",
+        "simulation",
+        "game",
+        "slow",
+        "roads"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "slow roads",
+        "slowroads"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 130,
+      "related": [
+        82,
+        1,
+        8,
+        16
+      ],
+      "popularity": 100,
+      "confidence": 1,
+      "recommendationReason": "Relax with endless scenic driving.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 43,
@@ -468,9 +2159,53 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1291340/ss_989ff1808d9416c7b22da3e16ee54874697b1cea.1920x1080.jpg?t=1780992269",
     "description": "Click to place buildings and watch a charming little town assemble itself with zero building rules to learn. There's no failure state — just a genuinely relaxing sandbox that rewards clicking around a coastline.",
     "category": "game",
-    "tags": ["sandbox", "building", "creative"],
+    "tags": [
+      "sandbox",
+      "building",
+      "creative"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "sandbox",
+        "building",
+        "creative",
+        "game",
+        "townscaper"
+      ],
+      "synonyms": [
+        "sandbox game",
+        "creative building",
+        "build",
+        "builder",
+        "creativity",
+        "imagination",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "townscaper"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 128,
+      "related": [
+        44,
+        1,
+        46,
+        8
+      ],
+      "popularity": 96,
+      "confidence": 1,
+      "recommendationReason": "Build beautiful towns with simple clicks.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 44,
@@ -479,9 +2214,53 @@
     "image": "https://raw.githubusercontent.com/MaxBittker/sandspiel/master/Screenshot.png",
     "description": "A falling-sand simulator with real physics — water, fire, sand, and plants all interact realistically. More of a chemistry set than a game; worth it just to watch fire spread through a forest you planted.",
     "category": "game",
-    "tags": ["sandbox", "physics", "creative"],
+    "tags": [
+      "sandbox",
+      "physics",
+      "creative"
+    ],
     "rating": 4.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "sandbox",
+        "physics",
+        "creative",
+        "game",
+        "sandspiel"
+      ],
+      "synonyms": [
+        "sandbox game",
+        "creative building",
+        "physics simulation",
+        "physics game",
+        "creativity",
+        "imagination",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "sandspiel"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 105,
+      "related": [
+        43,
+        1,
+        46,
+        8
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Experiment with realistic falling sand physics.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 45,
@@ -490,9 +2269,52 @@
     "image": "https://lh6.googleusercontent.com/KCEGN1Z-aPjyJN14V5LsqloorAOU4zhWxa44hPRWCUj5_lvxG2B4_BEyDfqjhtLuPjDAhMbUnPnvfPWtdUPDKTurZh7KnjkerHVsPqkJnzZKmp1BzG4PTiTXLRtI4oHMjDWMTvsx=s0",
     "description": "Draw with mirrored, symmetrical brush strokes that turn even random mouse movements into something that looks intentional. Zero learning curve, genuinely satisfying output.",
     "category": "art",
-    "tags": ["drawing", "creative", "art"],
+    "tags": [
+      "drawing",
+      "creative",
+      "art"
+    ],
     "rating": 4.7,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "drawing",
+        "creative",
+        "art",
+        "weavesilk"
+      ],
+      "synonyms": [
+        "draw",
+        "sketch",
+        "sketching",
+        "creativity",
+        "imagination",
+        "drawing",
+        "design",
+        "creative",
+        "paint",
+        "artwork"
+      ],
+      "aliases": [
+        "weavesilk"
+      ],
+      "intent": [
+        "art",
+        "creative"
+      ],
+      "searchWeight": 107,
+      "related": [
+        5,
+        13,
+        75,
+        8
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Create beautiful symmetrical digital artwork.",
+      "bestFor": "creative expression",
+      "recommendedFor": "artists and doodlers"
+    }
   },
   {
     "id": 46,
@@ -501,9 +2323,51 @@
     "image": "https://preview.redd.it/has-anyone-played-minecraft-classic-v0-3fetngxfdsbe1.png?auto=webp&s=633052f4bb43aab80488a0b6feb1f281c829b8dd",
     "description": "The original 2009 browser version of Minecraft, officially hosted and still playable for free. A nostalgia trip more than a full game — no survival mode, just building in the classic engine.",
     "category": "game",
-    "tags": ["minecraft", "sandbox", "classic"],
+    "tags": [
+      "minecraft",
+      "sandbox",
+      "classic"
+    ],
     "rating": 4.4,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "minecraft",
+        "sandbox",
+        "classic",
+        "game"
+      ],
+      "synonyms": [
+        "minecraft classic",
+        "sandbox game",
+        "creative building",
+        "games",
+        "play",
+        "gaming",
+        "playing"
+      ],
+      "aliases": [
+        "classic minecraft",
+        "classicminecraft",
+        "classic"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 124,
+      "related": [
+        43,
+        44,
+        1,
+        8
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "Play the original Minecraft Classic online.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 47,
@@ -512,9 +2376,51 @@
     "image": "https://emupedia.net/beta/emuos/assets/images/themes/boot/windows-98/windows-98-remastered.png",
     "description": "A fake retro desktop — Windows 98 skin, working mini-apps, and a handful of playable old-school games baked in. Built entirely for the nostalgia of poking around an OS that doesn't exist anymore.",
     "category": "fun",
-    "tags": ["retro", "emulator", "games"],
+    "tags": [
+      "retro",
+      "emulator",
+      "games"
+    ],
     "rating": 4.3,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "retro",
+        "emulator",
+        "games",
+        "fun",
+        "emuos"
+      ],
+      "synonyms": [
+        "old school",
+        "nostalgic",
+        "vintage",
+        "emulation",
+        "game",
+        "play",
+        "gaming"
+      ],
+      "aliases": [
+        "emuos",
+        "emupedia"
+      ],
+      "intent": [
+        "fun",
+        "entertainment"
+      ],
+      "searchWeight": 103,
+      "related": [
+        11,
+        48,
+        49,
+        50
+      ],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "Experience a retro desktop with classic games.",
+      "bestFor": "a quick laugh",
+      "recommendedFor": "anyone who's bored"
+    }
   },
   {
     "id": 48,
@@ -523,9 +2429,51 @@
     "image": "https://cdn-www.bluestacks.com/bs-images/rht4e.jpg",
     "description": "A large, well-organized library of free browser games across every genre — no downloads, decent curation, minimal clutter compared to most ad-stuffed game portals.",
     "category": "game",
-    "tags": ["games", "browser", "arcade"],
+    "tags": [
+      "games",
+      "browser",
+      "arcade"
+    ],
     "rating": 4.5,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "games",
+        "browser",
+        "arcade",
+        "game",
+        "poki"
+      ],
+      "synonyms": [
+        "game",
+        "play",
+        "gaming",
+        "browser game",
+        "no download",
+        "arcade game",
+        "games",
+        "playing"
+      ],
+      "aliases": [
+        "poki"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 125,
+      "related": [
+        49,
+        50,
+        35,
+        1
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Play thousands of free browser games.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 49,
@@ -534,9 +2482,50 @@
     "image": "https://imgs.crazygames.com/crazygames/share.png?metadata=none&width=1200&height=630&fit=crop",
     "description": "Another big browser game hub, similar footprint to Poki but with a slightly different catalog — worth checking both if one doesn't have what you're after.",
     "category": "game",
-    "tags": ["games", "browser", "online"],
+    "tags": [
+      "games",
+      "browser",
+      "online"
+    ],
     "rating": 4.5,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "games",
+        "browser",
+        "online",
+        "game",
+        "crazygames"
+      ],
+      "synonyms": [
+        "game",
+        "play",
+        "gaming",
+        "browser game",
+        "no download",
+        "games",
+        "playing"
+      ],
+      "aliases": [
+        "crazygames"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 125,
+      "related": [
+        48,
+        50,
+        1,
+        8
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Discover thousands of fun browser games.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 50,
@@ -545,9 +2534,54 @@
     "image": "https://static.itch.io/images/app/collections@1x.png",
     "description": "The web-playable slice of itch.io's massive indie catalog — smaller, weirder, more experimental than mainstream game portals. This is where you find the games nobody else is curating.",
     "category": "game",
-    "tags": ["indie", "browser", "games"],
+    "tags": [
+      "indie",
+      "browser",
+      "games"
+    ],
     "rating": 4.6,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "indie",
+        "browser",
+        "games",
+        "game",
+        "itch",
+        "web"
+      ],
+      "synonyms": [
+        "indie games",
+        "browser game",
+        "no download",
+        "game",
+        "play",
+        "gaming",
+        "games",
+        "playing"
+      ],
+      "aliases": [
+        "itch.io web games",
+        "itchiowebgames",
+        "itch"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 126,
+      "related": [
+        48,
+        49,
+        1,
+        8
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Discover unique indie browser games.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 51,
@@ -556,9 +2590,52 @@
     "image": "https://developer.chrome.com/static/blog/how-photopea-uses-the-file-handling-api/image/the-photopea-app-382a49ad75bbf.png",
     "description": "A full Photoshop-style editor that runs entirely in your browser tab and reads PSD files natively, at no cost. For most day-to-day editing tasks, there's genuinely no reason to open a paid desktop app instead.",
     "category": "tool",
-    "tags": ["editing", "design", "browser"],
+    "tags": [
+      "editing",
+      "design",
+      "browser"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "editing",
+        "design",
+        "browser",
+        "tool",
+        "photopea"
+      ],
+      "synonyms": [
+        "editor",
+        "edit",
+        "designing",
+        "graphics",
+        "browser game",
+        "no download",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "photopea"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 128,
+      "related": [
+        52,
+        53,
+        54,
+        58
+      ],
+      "popularity": 96,
+      "confidence": 1,
+      "recommendationReason": "Full-featured Photoshop-like photo editor, runs entirely in browser.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 52,
@@ -567,9 +2644,58 @@
     "image": "https://sb.kaleidousercontent.com/67418/512x342/dd4e54989d/unnamed-18.png",
     "description": "One-click AI background removal that's noticeably better at hair and fine edges than most competitors. Free tier caps resolution, but for quick social or listing images it's usually enough.",
     "category": "tool",
-    "tags": ["ai", "editing", "images"],
+    "tags": [
+      "ai",
+      "editing",
+      "images"
+    ],
     "rating": 4.7,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "ai",
+        "editing",
+        "images",
+        "tool",
+        "remove"
+      ],
+      "synonyms": [
+        "artificial intelligence",
+        "bot",
+        "chatbot",
+        "ml",
+        "editor",
+        "edit",
+        "image",
+        "photo",
+        "photos",
+        "picture",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "remove.bg",
+        "removebg",
+        "remove"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 127,
+      "related": [
+        53,
+        51,
+        54,
+        58
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Instantly remove image backgrounds using AI, one click.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 53,
@@ -578,9 +2704,59 @@
     "image": "https://a.storyblok.com/f/331919/1442x962/074e8514ff/removing-multiple-flying-seagulls-from-ocean-background-while-keeping-young-woman-s-portrait-clean.webp",
     "description": "AI-powered object removal — paint over what you want gone and it fills the gap convincingly most of the time. Best for small distractions like a stray person or wire, not full scene edits.",
     "category": "tool",
-    "tags": ["ai", "editing", "images"],
+    "tags": [
+      "ai",
+      "editing",
+      "images"
+    ],
     "rating": 4.6,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "ai",
+        "editing",
+        "images",
+        "tool",
+        "cleanup",
+        "pictures"
+      ],
+      "synonyms": [
+        "artificial intelligence",
+        "bot",
+        "chatbot",
+        "ml",
+        "editor",
+        "edit",
+        "image",
+        "photo",
+        "photos",
+        "picture",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "cleanup.pictures",
+        "cleanuppictures",
+        "cleanup"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 106,
+      "related": [
+        52,
+        51,
+        54,
+        58
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Remove unwanted objects, people, or text from any photo for free.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 54,
@@ -589,9 +2765,52 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pgA_UlldGf5S4Zi3Mr37o8uEKzAWJlbRRgrvCUWcMkXVpq6bTmgf1h8&s=10",
     "description": "Generate, lock, and export color palettes with a spacebar — genuinely the fastest palette workflow available for free. A staple for anyone doing quick design work without a dedicated tool.",
     "category": "tool",
-    "tags": ["design", "colors", "generator"],
+    "tags": [
+      "design",
+      "colors",
+      "generator"
+    ],
     "rating": 4.6,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "design",
+        "colors",
+        "generator",
+        "tool",
+        "coolors"
+      ],
+      "synonyms": [
+        "designing",
+        "graphics",
+        "color palette",
+        "color scheme",
+        "generate",
+        "generator tool",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "coolors"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 106,
+      "related": [
+        51,
+        52,
+        53,
+        58
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Generate beautiful color palettes instantly for design projects.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 55,
@@ -600,9 +2819,52 @@
     "image": "https://mma.prnewswire.com/media/2032096/QuillBot_logo_Logo.jpg?p=twitter",
     "description": "AI paraphrasing and grammar checking that goes beyond basic spell-check — useful for tightening awkward sentences, though it's worth rereading its suggestions rather than accepting them blindly.",
     "category": "ai",
-    "tags": ["ai", "writing", "productivity"],
+    "tags": [
+      "ai",
+      "writing",
+      "productivity"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "ai",
+        "writing",
+        "productivity",
+        "quillbot"
+      ],
+      "synonyms": [
+        "artificial intelligence",
+        "bot",
+        "chatbot",
+        "ml",
+        "write",
+        "writer",
+        "essay",
+        "productive",
+        "focus",
+        "work"
+      ],
+      "aliases": [
+        "quillbot"
+      ],
+      "intent": [
+        "ai",
+        "tool"
+      ],
+      "searchWeight": 104,
+      "related": [
+        56,
+        57,
+        85,
+        86
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "AI-powered paraphrasing tool and grammar checker.",
+      "bestFor": "AI-powered tasks",
+      "recommendedFor": "anyone experimenting with AI tools"
+    }
   },
   {
     "id": 56,
@@ -611,9 +2873,49 @@
     "image": "https://camo.githubusercontent.com/8f14fa4cfd0481fdf03da2248ff51d8d5a6697ceedd4eaf6702fbb09545abc87/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f693f69643d323335626566383034663036316530663939366131303037323339326539636365353036323464342d353233333135342d696d616765732d7468756d6273266e3d3133",
     "description": "Realistic AI voice generation and cloning with a genuinely usable free tier — one of the few voice AI tools where the free version doesn't sound obviously robotic.",
     "category": "ai",
-    "tags": ["ai", "voice", "audio"],
+    "tags": [
+      "ai",
+      "voice",
+      "audio"
+    ],
     "rating": 4.7,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "ai",
+        "voice",
+        "audio",
+        "elevenlabs"
+      ],
+      "synonyms": [
+        "artificial intelligence",
+        "bot",
+        "chatbot",
+        "ml",
+        "voice generator",
+        "text to speech",
+        "tts"
+      ],
+      "aliases": [
+        "elevenlabs"
+      ],
+      "intent": [
+        "ai",
+        "tool"
+      ],
+      "searchWeight": 127,
+      "related": [
+        55,
+        57,
+        85,
+        86
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Realistic AI voice generation and cloning, free tier available.",
+      "bestFor": "AI-powered tasks",
+      "recommendedFor": "anyone experimenting with AI tools"
+    }
   },
   {
     "id": 57,
@@ -622,9 +2924,52 @@
     "image": "https://cdn-o.suno.com/meta-preview.jpg",
     "description": "Generate full songs — vocals, instrumentation, structure — from a text prompt. Output quality varies a lot by genre, but for quick demos or joke songs it's often good enough to actually use.",
     "category": "ai",
-    "tags": ["ai", "music", "generator"],
+    "tags": [
+      "ai",
+      "music",
+      "generator"
+    ],
     "rating": 4.6,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "ai",
+        "music",
+        "generator",
+        "suno"
+      ],
+      "synonyms": [
+        "artificial intelligence",
+        "bot",
+        "chatbot",
+        "ml",
+        "songs",
+        "audio",
+        "sound",
+        "tunes",
+        "generate",
+        "generator tool"
+      ],
+      "aliases": [
+        "suno"
+      ],
+      "intent": [
+        "ai",
+        "tool"
+      ],
+      "searchWeight": 126,
+      "related": [
+        55,
+        56,
+        85,
+        86
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "Create full AI-generated songs from text prompts.",
+      "bestFor": "AI-powered tasks",
+      "recommendedFor": "anyone experimenting with AI tools"
+    }
   },
   {
     "id": 58,
@@ -633,9 +2978,55 @@
     "image": "https://www.shutterstock.com/shutterstock/videos/3800855089/thumb/1.jpg?ip=x480",
     "description": "Live satellite and radar imagery for tracking storms, wildfires, and weather systems globally. More detailed and less cluttered than most weather apps if you actually want to watch a system move.",
     "category": "tool",
-    "tags": ["weather", "satellite", "live"],
+    "tags": [
+      "weather",
+      "satellite",
+      "live"
+    ],
     "rating": 4.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weather",
+        "satellite",
+        "live",
+        "tool",
+        "zoom",
+        "earth"
+      ],
+      "synonyms": [
+        "weather tracker",
+        "storm tracker",
+        "satellite view",
+        "real time",
+        "realtime",
+        "live cam",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "zoom earth",
+        "zoomearth",
+        "zoom"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 105,
+      "related": [
+        59,
+        60,
+        51,
+        52
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Live satellite imagery to track storms and weather worldwide.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 59,
@@ -644,9 +3035,54 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesz8VCgAz7NbbHmTDJygCue0jG5NlDHwwp8K0j3Vh_RqbTQ8pglcnZ4E&s=10",
     "description": "Real-time flight tracking worldwide, down to altitude, speed, and aircraft type. Free tier has some delay and coverage limits, but it's still the fastest way to check why a plane is late.",
     "category": "tool",
-    "tags": ["live", "tracking", "world"],
+    "tags": [
+      "live",
+      "tracking",
+      "world"
+    ],
     "rating": 4.7,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "live",
+        "tracking",
+        "world",
+        "tool",
+        "flightradar24"
+      ],
+      "synonyms": [
+        "real time",
+        "realtime",
+        "live cam",
+        "track",
+        "tracker",
+        "global",
+        "worldwide",
+        "earth",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "flightradar24"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 127,
+      "related": [
+        60,
+        58,
+        51,
+        52
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Track live flights anywhere on Earth in real time.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 60,
@@ -655,9 +3091,53 @@
     "image": "https://globalmar.net/modules/ph_simpleblog/covers/16.png",
     "description": "Flightradar24's maritime equivalent — live ship positions, ports, and routes across the world's oceans. Niche, but genuinely useful if you're tracking a shipment or just curious about traffic in a specific strait.",
     "category": "tool",
-    "tags": ["live", "tracking", "ships"],
+    "tags": [
+      "live",
+      "tracking",
+      "ships"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "live",
+        "tracking",
+        "ships",
+        "tool",
+        "marinetraffic"
+      ],
+      "synonyms": [
+        "real time",
+        "realtime",
+        "live cam",
+        "track",
+        "tracker",
+        "boats",
+        "vessels",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "marinetraffic"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 104,
+      "related": [
+        59,
+        58,
+        51,
+        52
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "Track ships and vessels live across the world's oceans.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 61,
@@ -666,9 +3146,52 @@
     "image": "https://res-academy.cache.wpscdn.com/images/seo_posts/20230607/551568f002bbc15a89dbc69efa6892e7.png",
     "description": "Merge, split, compress, and convert PDFs without installing anything. Handles the boring file admin tasks fast enough that it's worth bookmarking over searching each time.",
     "category": "tool",
-    "tags": ["pdf", "productivity", "utility"],
+    "tags": [
+      "pdf",
+      "productivity",
+      "utility"
+    ],
     "rating": 4.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "pdf",
+        "productivity",
+        "utility",
+        "tool",
+        "ilovepdf"
+      ],
+      "synonyms": [
+        "pdf editor",
+        "pdf tool",
+        "productive",
+        "focus",
+        "work",
+        "tool",
+        "tools",
+        "helper",
+        "utility"
+      ],
+      "aliases": [
+        "ilovepdf"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 105,
+      "related": [
+        62,
+        63,
+        64,
+        65
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Free suite of tools to merge, split, compress, and edit PDFs.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 62,
@@ -677,9 +3200,52 @@
     "image": "https://i.ytimg.com/vi/RJfakjLA7VQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6r9r15AE8_c-o6Ncsr8CE00VK-w",
     "description": "A similar toolkit to iLovePDF with a slightly cleaner interface — worth having both bookmarked since one occasionally handles a format the other doesn't.",
     "category": "tool",
-    "tags": ["pdf", "productivity", "utility"],
+    "tags": [
+      "pdf",
+      "productivity",
+      "utility"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "pdf",
+        "productivity",
+        "utility",
+        "tool",
+        "smallpdf"
+      ],
+      "synonyms": [
+        "pdf editor",
+        "pdf tool",
+        "productive",
+        "focus",
+        "work",
+        "tool",
+        "tools",
+        "helper",
+        "utility"
+      ],
+      "aliases": [
+        "smallpdf"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 104,
+      "related": [
+        61,
+        63,
+        64,
+        65
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "Simple free tools for editing, converting, and compressing PDFs.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 63,
@@ -688,9 +3254,50 @@
     "image": "https://i.ytimg.com/vi/yDyO2LLF-8E/sddefault.jpg",
     "description": "A sprawling collection of free file tools — PDF, image, video, text — all in one place with no login wall. Ad-heavy, but the actual tools underneath work fine.",
     "category": "tool",
-    "tags": ["utility", "productivity", "free"],
+    "tags": [
+      "utility",
+      "productivity",
+      "free"
+    ],
     "rating": 4.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "utility",
+        "productivity",
+        "free",
+        "tool",
+        "tinywow"
+      ],
+      "synonyms": [
+        "tool",
+        "tools",
+        "helper",
+        "productive",
+        "focus",
+        "work",
+        "utility"
+      ],
+      "aliases": [
+        "tinywow"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 105,
+      "related": [
+        64,
+        61,
+        62,
+        65
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Over 100 free tools for converting, compressing, and editing files.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 64,
@@ -699,9 +3306,53 @@
     "image": "https://10015.io/og-image.jpg",
     "description": "A grab-bag of small, single-purpose web utilities — unit converters, generators, calculators — the kind of tools you need for thirty seconds and then forget exist.",
     "category": "tool",
-    "tags": ["utility", "productivity", "free"],
+    "tags": [
+      "utility",
+      "productivity",
+      "free"
+    ],
     "rating": 4.3,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "utility",
+        "productivity",
+        "free",
+        "tool",
+        "10015",
+        "tools"
+      ],
+      "synonyms": [
+        "tool",
+        "tools",
+        "helper",
+        "productive",
+        "focus",
+        "work",
+        "utility"
+      ],
+      "aliases": [
+        "10015 tools",
+        "10015tools",
+        "10015"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 103,
+      "related": [
+        63,
+        61,
+        62,
+        65
+      ],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "A huge collection of free mini web tools in one place.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 65,
@@ -710,9 +3361,55 @@
     "image": "https://iseoai.com/wp-content/uploads/2025/03/temp-mail.png",
     "description": "Instant disposable email addresses for sign-ups you don't trust with your real inbox. No account needed — the inbox just exists at a URL until you close the tab.",
     "category": "tool",
-    "tags": ["privacy", "email", "utility"],
+    "tags": [
+      "privacy",
+      "email",
+      "utility"
+    ],
     "rating": 4.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "privacy",
+        "email",
+        "utility",
+        "tool",
+        "temp",
+        "mail"
+      ],
+      "synonyms": [
+        "private",
+        "anonymous",
+        "secure",
+        "mail",
+        "inbox",
+        "tool",
+        "tools",
+        "helper",
+        "utility"
+      ],
+      "aliases": [
+        "temp mail",
+        "tempmail",
+        "temp-mail"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 105,
+      "related": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "popularity": 90,
+      "confidence": 1,
+      "recommendationReason": "Generate a temporary, disposable email address instantly.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 66,
@@ -721,9 +3418,52 @@
     "image": "https://www.pcworld.com/wp-content/uploads/2026/04/Privnote.png",
     "description": "Send a note that self-destructs after being read once — useful for sharing a password or sensitive info without leaving a permanent copy in someone's inbox.",
     "category": "tool",
-    "tags": ["privacy", "notes", "security"],
+    "tags": [
+      "privacy",
+      "notes",
+      "security"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "privacy",
+        "notes",
+        "security",
+        "tool",
+        "privnote"
+      ],
+      "synonyms": [
+        "private",
+        "anonymous",
+        "secure",
+        "note",
+        "sticky note",
+        "encrypted",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "privnote"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 104,
+      "related": [
+        65,
+        51,
+        52,
+        53
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "Send self-destructing secret notes that disappear after being read.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 67,
@@ -732,9 +3472,56 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2018/08/07/internet-archive.jpg",
     "description": "The Internet Archive's tool for browsing old snapshots of nearly any site in its history. Genuinely useful for research, and occasionally the only way to recover a page that's since disappeared.",
     "category": "weird",
-    "tags": ["archive", "history", "internet"],
+    "tags": [
+      "archive",
+      "history",
+      "internet"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "archive",
+        "history",
+        "internet",
+        "weird",
+        "wayback",
+        "machine"
+      ],
+      "synonyms": [
+        "archived",
+        "wayback",
+        "historical",
+        "old web",
+        "web",
+        "old internet",
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy"
+      ],
+      "aliases": [
+        "wayback machine",
+        "waybackmachine",
+        "archive"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 128,
+      "related": [
+        23,
+        68,
+        74,
+        77
+      ],
+      "popularity": 96,
+      "confidence": 1,
+      "recommendationReason": "Browse old, archived versions of nearly any website in history.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 68,
@@ -743,9 +3530,56 @@
     "image": "https://i.gzn.jp/img/2019/02/17/this-person-does-not-exist/00.jpg",
     "description": "Every refresh generates a new, fully synthetic human face via GAN — no two people are the same, and none of them exist. A stark, simple demo of how far AI image generation has come.",
     "category": "weird",
-    "tags": ["ai", "weird", "generator"],
+    "tags": [
+      "ai",
+      "weird",
+      "generator"
+    ],
     "rating": 4.6,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "ai",
+        "weird",
+        "generator",
+        "person",
+        "does",
+        "not",
+        "exist"
+      ],
+      "synonyms": [
+        "artificial intelligence",
+        "bot",
+        "chatbot",
+        "ml",
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy",
+        "generate",
+        "generator tool"
+      ],
+      "aliases": [
+        "this person does not exist",
+        "thispersondoesnotexist"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 126,
+      "related": [
+        23,
+        74,
+        77,
+        78
+      ],
+      "popularity": 92,
+      "confidence": 1,
+      "recommendationReason": "AI generates a new realistic fake human face every refresh.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 69,
@@ -754,9 +3588,51 @@
     "image": "https://cdn.prod.website-files.com/60b165817c17863ee6e54df5/629b9e2f9eb610d1b54a1302_617c759421fd105509083231_maxresdefault.jpeg",
     "description": "A minimalist typing test with clean typography and no clutter — arguably the best-looking typing test online, with customization that goes deeper than it first appears.",
     "category": "tool",
-    "tags": ["typing", "test", "minimal"],
+    "tags": [
+      "typing",
+      "test",
+      "minimal"
+    ],
     "rating": 4.7,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "typing",
+        "test",
+        "minimal",
+        "tool",
+        "monkeytype"
+      ],
+      "synonyms": [
+        "typing test",
+        "wpm",
+        "keyboard speed",
+        "speed test",
+        "test yourself",
+        "utility",
+        "tools",
+        "helper"
+      ],
+      "aliases": [
+        "monkeytype"
+      ],
+      "intent": [
+        "tool",
+        "utility"
+      ],
+      "searchWeight": 107,
+      "related": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "popularity": 94,
+      "confidence": 1,
+      "recommendationReason": "Minimalist typing speed test with clean aesthetic.",
+      "bestFor": "getting a task done quickly",
+      "recommendedFor": "people who need a free online tool"
+    }
   },
   {
     "id": 71,
@@ -765,9 +3641,57 @@
     "image": "https://neal.fun/share-cards/infinite-craft.png",
     "description": "Combine any two elements — Water, Fire, or increasingly absurd combinations you've already made — and an AI decides what they become. The scope is genuinely unlimited, which makes it easy to lose an hour without noticing.",
     "category": "super addictive",
-    "tags": ["game", "best", "crafting", "craft"],
+    "tags": [
+      "game",
+      "best",
+      "crafting",
+      "craft"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "game",
+        "best",
+        "crafting",
+        "craft",
+        "super addictive",
+        "infinite",
+        "super",
+        "addictive"
+      ],
+      "synonyms": [
+        "games",
+        "play",
+        "gaming",
+        "playing",
+        "craft",
+        "combine",
+        "crafting"
+      ],
+      "aliases": [
+        "infinite craft",
+        "infinitecraft",
+        "infinitecraft-game",
+        "infinitecraft game"
+      ],
+      "intent": [
+        "addictive",
+        "game"
+      ],
+      "searchWeight": 128,
+      "related": [
+        1,
+        25,
+        26,
+        27
+      ],
+      "popularity": 96,
+      "confidence": 1,
+      "recommendationReason": "Combine elements to create anything using AI. Extremely addictive creativity game.",
+      "bestFor": "losing track of time",
+      "recommendedFor": "people who love addictive games"
+    }
   },
   {
     "id": 72,
@@ -776,9 +3700,55 @@
     "image": "https://mynoise.net/Pix/card_logo.png",
     "description": "A deep ambient sound mixer with dozens of generators — more layers and finer control than most rivals, aimed at people who want to fine-tune their background noise rather than pick a preset.",
     "category": "relax",
-    "tags": ["music", "song", "creativity"],
+    "tags": [
+      "music",
+      "song",
+      "creativity"
+    ],
     "rating": 4.3,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "music",
+        "song",
+        "creativity",
+        "relax",
+        "noise"
+      ],
+      "synonyms": [
+        "songs",
+        "audio",
+        "sound",
+        "tunes",
+        "creative",
+        "imagination",
+        "relaxing",
+        "chill",
+        "calm",
+        "unwind",
+        "destress"
+      ],
+      "aliases": [
+        "my noise",
+        "mynoise"
+      ],
+      "intent": [
+        "relax",
+        "calm"
+      ],
+      "searchWeight": 103,
+      "related": [
+        2,
+        15,
+        3,
+        14
+      ],
+      "popularity": 86,
+      "confidence": 1,
+      "recommendationReason": "Powerful ambient sound mixer with hundreds of high-quality sounds.",
+      "bestFor": "unwinding and relaxing",
+      "recommendedFor": "anyone who needs to chill"
+    }
   },
   {
     "id": 73,
@@ -787,9 +3757,39 @@
     "image": "https://substackcdn.com/image/fetch/$s_!jqLO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa859f04f-c4b2-46c4-95a1-ba57ba44d14a_2560x1535.jpeg",
     "description": "A generated library containing every possible combination of letters — meaning somewhere in its shelves, every book that could ever be written already exists, buried in noise. More thought experiment than tool, and worth sitting with.",
     "category": "mind blowing",
-    "tags": ["Library", "books"],
+    "tags": [
+      "Library",
+      "books"
+    ],
     "rating": 4,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "Library",
+        "books",
+        "mind blowing",
+        "babel",
+        "mind",
+        "blowing",
+        "library"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "library of babel",
+        "libraryofbabel"
+      ],
+      "intent": [
+        "mindblowing",
+        "weird"
+      ],
+      "searchWeight": 120,
+      "related": [],
+      "popularity": 80,
+      "confidence": 1,
+      "recommendationReason": "An infinite library containing every possible book ever. Truly surreal.",
+      "bestFor": "a mind-bending experience",
+      "recommendedFor": "people who love the surreal and infinite"
+    }
   },
   {
     "id": 74,
@@ -798,9 +3798,49 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBd2qLsqRu5CC0L3cxMzOb_lmbr6AQNWkls1SPpWfHygCPIxj4jJD7k4qH&s=10",
     "description": "Move your mouse and a strange, elastic worm-creature reacts to it in real time. There's no goal — it's a small, oddly satisfying physics toy that's stayed unchanged since the early 2010s.",
     "category": "weird",
-    "tags": ["weird", "jumpscare"],
+    "tags": [
+      "weird",
+      "jumpscare"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weird",
+        "jumpscare",
+        "staggering",
+        "beauty"
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy",
+        "scary",
+        "horror",
+        "spooky"
+      ],
+      "aliases": [
+        "staggering beauty",
+        "staggeringbeauty"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 104,
+      "related": [
+        23,
+        68,
+        77,
+        78
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "Move your mouse and watch a hypnotic creature react. Very trippy.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 75,
@@ -809,9 +3849,45 @@
     "image": "https://i.ytimg.com/vi/jneD0tFKKRQ/maxresdefault.jpg",
     "description": "A simple drawing tool locked to the primary colors and grid lines of Piet Mondrian's style — constraints that make even a quick doodle look intentional.",
     "category": "art",
-    "tags": ["art", "playful"],
+    "tags": [
+      "art",
+      "playful"
+    ],
     "rating": 3.7,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "art",
+        "playful",
+        "mondrian"
+      ],
+      "synonyms": [
+        "drawing",
+        "design",
+        "creative",
+        "paint",
+        "artwork"
+      ],
+      "aliases": [
+        "mondrian and me",
+        "mondrianandme"
+      ],
+      "intent": [
+        "art",
+        "creative"
+      ],
+      "searchWeight": 97,
+      "related": [
+        5,
+        45,
+        13
+      ],
+      "popularity": 74,
+      "confidence": 1,
+      "recommendationReason": "Create digital art in the classic Mondrian style.",
+      "bestFor": "creative expression",
+      "recommendedFor": "artists and doodlers"
+    }
   },
   {
     "id": 76,
@@ -820,9 +3896,43 @@
     "image": "https://i.pinimg.com/736x/b9/95/7a/b9957a7703e0ccf084e362daecb40e4b.jpg",
     "description": "Enter what's actually in your fridge and it suggests recipes built around those ingredients, instead of sending you shopping for six things you don't have. Solves a genuinely specific, common problem.",
     "category": "useful",
-    "tags": ["good", "recipe"],
+    "tags": [
+      "good",
+      "recipe"
+    ],
     "rating": 4.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "good",
+        "recipe",
+        "useful",
+        "fridge",
+        "food"
+      ],
+      "synonyms": [
+        "recipes",
+        "cooking",
+        "food"
+      ],
+      "aliases": [
+        "my fridge food",
+        "myfridgefood"
+      ],
+      "intent": [
+        "useful",
+        "tool"
+      ],
+      "searchWeight": 104,
+      "related": [
+        22
+      ],
+      "popularity": 88,
+      "confidence": 1,
+      "recommendationReason": "Finding recipes based on what is currently in your pantry.",
+      "bestFor": "everyday practical use",
+      "recommendedFor": "anyone who wants something genuinely useful"
+    }
   },
   {
     "id": 77,
@@ -831,9 +3941,45 @@
     "image": "https://f4.bcbits.com/img/0027125110_25.jpg",
     "description": "Deliberately cryptic and unlabeled — part of the same lineage as sites like LHOHQ, where the point is not knowing what you're about to click into. Approach it the way you'd approach any unmarked door on the internet: curious, cautious.",
     "category": "weird",
-    "tags": ["weird"],
+    "tags": [
+      "weird"
+    ],
     "rating": 2.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weird",
+        "tfpxe",
+        "show"
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy"
+      ],
+      "aliases": [
+        "tfpxe.wtf",
+        "tfpxewtf",
+        "tfpxe"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 85,
+      "related": [
+        23,
+        68,
+        74,
+        78
+      ],
+      "popularity": 50,
+      "confidence": 1,
+      "recommendationReason": "I dont knwo what's in website it's a weird site.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 78,
@@ -842,9 +3988,49 @@
     "image": "https://hips.hearstapps.com/hmg-prod/images/superbad1-1572465225.jpg",
     "description": "An early-2000s surreal web experience that's stayed almost entirely unchanged — a maze of shifting, chaotic pages with no map and no clear goal. A genuine artifact of an older, weirder internet.",
     "category": "weird",
-    "tags": ["weird", "chaos", "puzzles"],
+    "tags": [
+      "weird",
+      "chaos",
+      "puzzles"
+    ],
     "rating": 3.8,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weird",
+        "chaos",
+        "puzzles",
+        "superbad"
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy",
+        "puzzle",
+        "brain teaser",
+        "logic"
+      ],
+      "aliases": [
+        "superbad"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 98,
+      "related": [
+        23,
+        68,
+        74,
+        77
+      ],
+      "popularity": 76,
+      "confidence": 1,
+      "recommendationReason": "Classic 90s/early 2000s weird web rabbit hole. Ever-changing surreal pages, puzzles, and pure chaos.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 79,
@@ -853,9 +4039,45 @@
     "image": "https://i.ytimg.com/vi/uWUltHkEEYQ/maxresdefault.jpg",
     "description": "Abstract, disorienting, part of the same \"weird web\" lineage as Superbad and Mouchette. There's no explanation offered anywhere on the site, and that's deliberate.",
     "category": "weird",
-    "tags": ["weird", "bizzare"],
+    "tags": [
+      "weird",
+      "bizzare"
+    ],
     "rating": 3.5,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weird",
+        "bizzare",
+        "lhohq"
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy",
+        "weird"
+      ],
+      "aliases": [
+        "lhohq"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 95,
+      "related": [
+        23,
+        68,
+        74,
+        77
+      ],
+      "popularity": 70,
+      "confidence": 1,
+      "recommendationReason": "Bizarre, abstract one in the same weird-web family.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 80,
@@ -864,9 +4086,47 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Mouchette.png",
     "description": "A long-running piece of net art built around an unsettling fictional persona — more art project than website, and one of the internet's earliest examples of the format. Worth approaching as art, not entertainment.",
     "category": "weird",
-    "tags": ["weird", "creepy"],
+    "tags": [
+      "weird",
+      "creepy"
+    ],
     "rating": 3.4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weird",
+        "creepy",
+        "mouchette"
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy",
+        "scary",
+        "spooky",
+        "horror"
+      ],
+      "aliases": [
+        "mouchette"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 94,
+      "related": [
+        81,
+        23,
+        68,
+        74
+      ],
+      "popularity": 68,
+      "confidence": 1,
+      "recommendationReason": "Creepy, artistic, interactive oddness.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 81,
@@ -875,9 +4135,48 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_T-lz1RbnZWwSiQclgh3X2hZ_QVQbRtGxPUL8xcEx4bh_fLexEf0YpE&s=10",
     "description": "Surreal, unsettling digital collage art with no clear narrative thread. Fits the same net-art shelf as Mouchette — better understood as a piece to sit with than a site to navigate.",
     "category": "weird",
-    "tags": ["weird", "creepy"],
+    "tags": [
+      "weird",
+      "creepy"
+    ],
     "rating": 2.9,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "weird",
+        "creepy",
+        "sentimentalcorp"
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd",
+        "creepy",
+        "scary",
+        "spooky",
+        "horror"
+      ],
+      "aliases": [
+        "sentimental corp",
+        "sentimentalcorp"
+      ],
+      "intent": [
+        "weird",
+        "strange"
+      ],
+      "searchWeight": 89,
+      "related": [
+        80,
+        23,
+        68,
+        74
+      ],
+      "popularity": 58,
+      "confidence": 1,
+      "recommendationReason": "Surreal and unsettling digital art.",
+      "bestFor": "exploring the strange corners of the internet",
+      "recommendedFor": "people who like weird, surreal sites"
+    }
   },
   {
     "id": 82,
@@ -886,9 +4185,56 @@
     "image": "https://img.itch.zone/aW1nLzM0ODgwODEucG5n/original/nE%2F1Fj.png",
     "description": "A rough, early-access offroad driving prototype — the terrain deformation and weight physics are the standout, even if the visuals are clearly still in progress. Worth a look if you like watching indie 3D projects develop.",
     "category": "game",
-    "tags": ["game", "3d", "car", "driving"],
+    "tags": [
+      "game",
+      "3d",
+      "car",
+      "driving"
+    ],
     "rating": 4.1,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "redox",
+        "games",
+        "endless",
+        "offroad",
+        "driving",
+        "game",
+        "3d",
+        "car",
+        "rough",
+        "early",
+        "access",
+        "prototype",
+        "terrain",
+        "deformation",
+        "weight",
+        "physics"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "redox games — endless offroad driving",
+        "redoxgamesendlessoffroaddriving",
+        "redoxgames"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 101,
+      "related": [
+        84,
+        1,
+        25,
+        26
+      ],
+      "popularity": 82,
+      "confidence": 0.75,
+      "recommendationReason": "A rough, early-access offroad driving prototype — the terrain deformation and weight physics are the standout, even if the visuals are cl…",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 83,
@@ -897,9 +4243,51 @@
     "image": "https://i.ytimg.com/vi/se-oorr2zM8/maxresdefault.jpg",
     "description": "A slick, Wipeout-style anti-gravity racer built entirely in WebGL, running smoothly even on modest hardware. The steepest learning curve on this list for a browser racer, but the speed sense is genuinely well done.",
     "category": "game",
-    "tags": ["game", "fun"],
+    "tags": [
+      "game",
+      "fun"
+    ],
     "rating": 4.8,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "hexgl",
+        "game",
+        "fun",
+        "slick",
+        "wipeout",
+        "style",
+        "anti",
+        "gravity",
+        "racer",
+        "built",
+        "entirely",
+        "in",
+        "webgl",
+        "running",
+        "smoothly"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "hexgl"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 128,
+      "related": [
+        25,
+        28,
+        29,
+        31
+      ],
+      "popularity": 96,
+      "confidence": 0.75,
+      "recommendationReason": "A slick, Wipeout-style anti-gravity racer built entirely in WebGL, running smoothly even on modest hardware.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 84,
@@ -908,9 +4296,51 @@
     "image": "https://elgoog.im/assets/p/dinosaur-game/3d/media/dinosaur-game-t-rex-run-3d.jpg",
     "description": "A 3D remake of Chrome's offline dino runner — same jump-and-duck mechanics, now with depth. A five-minute distraction, not much more, but well executed for what it is.",
     "category": "game",
-    "tags": ["game", "3d", "dino"],
+    "tags": [
+      "game",
+      "3d",
+      "dino"
+    ],
     "rating": 4,
-    "featured": false
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "dino",
+        "3d",
+        "game",
+        "remake",
+        "chrome",
+        "offline",
+        "runner",
+        "same",
+        "jump",
+        "duck",
+        "mechanics",
+        "now",
+        "depth"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "dino 3d",
+        "dino3d"
+      ],
+      "intent": [
+        "game",
+        "play"
+      ],
+      "searchWeight": 100,
+      "related": [
+        82,
+        1,
+        25,
+        26
+      ],
+      "popularity": 80,
+      "confidence": 0.75,
+      "recommendationReason": "A 3D remake of Chrome's offline dino runner — same jump-and-duck mechanics, now with depth.",
+      "bestFor": "killing time with a game",
+      "recommendedFor": "casual gamers"
+    }
   },
   {
     "id": 85,
@@ -919,9 +4349,53 @@
     "image": "https://i.ytimg.com/vi/E_g98zcdSmk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6OGZCMC0aA29eln2ZW3TBd4kDEw",
     "description": "A free AI chat tool that skips the sign-up wall entirely — open the tab and start typing. Worth trying if you want to test a prompt quickly without creating another account.",
     "category": "ai",
-    "tags": ["ai", "free"],
+    "tags": [
+      "ai",
+      "free"
+    ],
     "rating": 5,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "test",
+        "lab",
+        "ai",
+        "free",
+        "chat",
+        "tool",
+        "that",
+        "skips",
+        "sign",
+        "up",
+        "wall",
+        "entirely",
+        "open",
+        "tab"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "test lab ai",
+        "testlabai",
+        "test-lab",
+        "test lab"
+      ],
+      "intent": [
+        "ai",
+        "tool"
+      ],
+      "searchWeight": 130,
+      "related": [
+        86,
+        55,
+        56,
+        57
+      ],
+      "popularity": 100,
+      "confidence": 0.75,
+      "recommendationReason": "A free AI chat tool that skips the sign-up wall entirely — open the tab and start typing.",
+      "bestFor": "AI-powered tasks",
+      "recommendedFor": "anyone experimenting with AI tools"
+    }
   },
   {
     "id": 86,
@@ -930,8 +4404,52 @@
     "image": "https://cdn-01.cms-ap-v2i.applyflow.com/entreerecruitment/wp-content/uploads/2023/09/MailChimp-Blogs-980-x-551-px.png",
     "description": "Gives access to several different free AI chat models from one interface, no login required. Handy for comparing how different models answer the same prompt side by side.",
     "category": "ai",
-    "tags": ["ai", "free", "allfreeai"],
+    "tags": [
+      "ai",
+      "free",
+      "allfreeai"
+    ],
     "rating": 4.7,
-    "featured": true
+    "featured": true,
+    "ai": {
+      "keywords": [
+        "plai",
+        "chat",
+        "ai",
+        "free",
+        "allfreeai",
+        "gives",
+        "access",
+        "several",
+        "different",
+        "models",
+        "from",
+        "one",
+        "interface",
+        "no"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "plai chat",
+        "plaichat",
+        "plai"
+      ],
+      "intent": [
+        "ai",
+        "tool"
+      ],
+      "searchWeight": 127,
+      "related": [
+        85,
+        55,
+        56,
+        57
+      ],
+      "popularity": 94,
+      "confidence": 0.75,
+      "recommendationReason": "Gives access to several different free AI chat models from one interface, no login required.",
+      "bestFor": "AI-powered tasks",
+      "recommendedFor": "anyone experimenting with AI tools"
+    }
   }
 ]
