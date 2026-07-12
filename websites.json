@@ -4460,7 +4460,9 @@
     "category": "useful",
     "image": "https://rock-the-prototype.com/wp-content/uploads/2021/12/JSDelivr.jpg",
     "tags": [
-      "coding"
+      "coding",
+      "javascript",
+      "programming"
     ],
     "rating": 4.7,
     "featured": false,
@@ -4469,6 +4471,8 @@
         "jsdeliver",
         "useful",
         "coding",
+        "javascript",
+        "programming",
         "jsdelivr",
         "free",
         "fast",
@@ -4479,8 +4483,7 @@
         "developers",
         "deliver",
         "files",
-        "from",
-        "npm"
+        "from"
       ],
       "synonyms": [],
       "aliases": [
