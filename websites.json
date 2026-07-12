@@ -4451,5 +4451,56 @@
       "bestFor": "AI-powered tasks",
       "recommendedFor": "anyone experimenting with AI tools"
     }
+  },
+  {
+    "id": 87,
+    "title": "JsDeliver",
+    "url": "https://www.jsdelivr.com/",
+    "description": "JSDelivr is a free and fast CDN service that helps developers deliver files from npm packages, GitHub repositories, and other sources directly to users. It makes websites faster by serving libraries, scripts, stylesheets, and assets from a global network without needing your own server.",
+    "category": "useful",
+    "image": "https://rock-the-prototype.com/wp-content/uploads/2021/12/JSDelivr.jpg",
+    "tags": [
+      "coding"
+    ],
+    "rating": 4.7,
+    "featured": false,
+    "ai": {
+      "keywords": [
+        "jsdeliver",
+        "useful",
+        "coding",
+        "jsdelivr",
+        "free",
+        "fast",
+        "cdn",
+        "service",
+        "that",
+        "helps",
+        "developers",
+        "deliver",
+        "files",
+        "from",
+        "npm"
+      ],
+      "synonyms": [],
+      "aliases": [
+        "jsdeliver",
+        "jsdelivr"
+      ],
+      "intent": [
+        "useful",
+        "tool"
+      ],
+      "searchWeight": 107,
+      "related": [
+        22,
+        76
+      ],
+      "popularity": 94,
+      "confidence": 0.75,
+      "recommendationReason": "JSDelivr is a free and fast CDN service that helps developers deliver files from npm packages, GitHub repositories, and other sources dir…",
+      "bestFor": "everyday practical use",
+      "recommendedFor": "anyone who wants something genuinely useful"
+    }
   }
 ]
